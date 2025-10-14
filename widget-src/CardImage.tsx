@@ -15,7 +15,7 @@ const CardImage = ({
 } & WidgetJSX.WidgetJSXImageProps) => {
   return (
     <Image
-      width={display ? 220 : 120}
+      width={display ? 240 : 120}
       height={display ? 400: 200}
       src={getCardImage(card)}
       strokeWidth={display ? style.strokeWidth.medium : style.strokeWidth.small}

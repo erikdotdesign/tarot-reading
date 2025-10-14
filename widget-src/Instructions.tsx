@@ -22,7 +22,6 @@ const Instructions = () => {
     const size = Math.ceil(arr.length / cols);
     return Array.from({ length: cols }, (_, i) => arr.slice(i * size, (i + 1) * size));
   };
-  console.log(splitIntoColumns(INSTRUCTIONS));
   return (
     <AutoLayout
       width="fill-parent"

@@ -7,33 +7,35 @@ import ContainerBody from "./ContainerBody";
 import TextHeader from "./TextHeader";
 import TextSubHeader from "./TextSubHeader";
 import TextBody from "./TextBody";
+import CardImage from "./CardImage";
 
 const { widget } = figma;
+const { AutoLayout } = widget;
 
 const SPEAD_INFO = {
   3: {
-    1: ["Past", "The influences, events, or patterns from the past that shape the current situation."],
-    2: ["Present", "Reflects the current circumstances, emotional state, or challenges."],
-    3: ["Future", "Indicates possible outcomes, lessons, or directions the situation may move toward."]
+    1: ["The Past", "The influences, events, or patterns from the past that shape the current situation."],
+    2: ["The Present", "Reflects the current circumstances, emotional state, or challenges."],
+    3: ["The Future", "Indicates possible outcomes, lessons, or directions the situation may move toward."]
   },
   5: {
-    1: ["Present", "The current situation or the querent's core energy."],
-    2: ["Past", "Influences from the past that are still affecting the present."],
-    3: ["Future", "The most likely outcome if things continue on the current path."],
-    4: ["Root Cause", "The reason behind the current situation or a hidden aspect of the problem."],
-    5: ["Potential", "A deeper insight into the situation, offering advice, potential, or the overriding area for focus."]
+    1: ["The Present", "The current situation or the querent's core energy."],
+    2: ["The Past", "Influences from the past that are still affecting the present."],
+    3: ["The Future", "The most likely outcome if things continue on the current path."],
+    4: ["The Root Cause", "The reason behind the current situation or a hidden aspect of the problem."],
+    5: ["The Potential", "A deeper insight into the situation, offering advice, potential, or the overriding area for focus."]
   },
   10: {
-    1: ["Present", "The heart of the issue or the current focus."],
-    2: ["Challenge", "What's affecting the present situation, both positively and negatively."],
-    3: ["Foundation", "The basis of the current situation and the more immediate past."],
-    4: ["Unconscious", "Something that is affecting the situation on an unconscious level."],
-    5: ["Past", "The distant past and its influence on the present"],
-    6: ["Future", "The most likely near-term future based on the current trajectory."],
+    1: ["The Present", "The heart of the issue or the current focus."],
+    2: ["The Challenge", "What's affecting the present situation, both positively and negatively."],
+    3: ["The Foundation", "The basis of the current situation and the more immediate past."],
+    4: ["The Unconscious", "Something that is affecting the situation on an unconscious level."],
+    5: ["The Past", "The distant past and its influence on the present."],
+    6: ["The Future", "The most likely near-term future based on the current trajectory."],
     7: ["Inner Influences", "The querent's internal state, thoughts, and feelings about the situation."],
     8: ["External Influences", "The external factors or influences outside of the querent's control that are still impacting the situation."],
     9: ["Hopes and Fears", "The querent's greatest hopes and fears regarding the outcome."],
-    10:["Outcome", "The likely outcome if things continue on their current path."]
+    10:["The Outcome", "The likely outcome if things continue on their current path."]
   }
 }
 
@@ -50,9 +52,9 @@ const CardInspector = ({
   const cardNumber = state.cards.findIndex(c => c.name === card.name) + 1;
   const spread = (SPEAD_INFO as any)[state.spread];
   const cardInfo = spread[cardNumber];
-  console.log(card);
 
   return (
+    cardInfo &&
     <Container
       name="Board"
       width={700}
@@ -62,20 +64,43 @@ const CardInspector = ({
       <ContainerHeader
         width="fill-parent"
         direction="vertical"
-        horizontalAlignItems="center">
+        horizontalAlignItems="center"
+        spacing={style.spacing.shmedium}>
+        <TextSubHeader
+          width="fill-parent"
+          horizontalAlignText="center"
+          fontFamily={style.fontFamily.header}
+          fontWeight={style.fontWeight.extraBold}>
+          {`Card ${cardNumber}`}
+        </TextSubHeader>
         <TextHeader
           horizontalAlignText="center"
           width="fill-parent">
-          {`Card ${cardNumber} - ${cardInfo[0]}`}
+          {cardInfo[0]}
         </TextHeader>
-        <TextSubHeader>
+        <TextSubHeader
+          width="fill-parent"
+          horizontalAlignText="center">
           { cardInfo[1] }
         </TextSubHeader>
       </ContainerHeader>
       <ContainerBody
         width="fill-parent"
         height="fill-parent"
-        direction="vertical">
+        direction="vertical"
+        horizontalAlignItems="center"
+        spacing={style.spacing.shmedium}>
+        <AutoLayout
+          width="fill-parent"
+          horizontalAlignItems="center"
+          padding={{
+            horizontal: 0,
+            vertical: style.padding.large
+          }}>
+          <CardImage
+            card={card}
+            display />
+        </AutoLayout> 
         <TextHeader
           horizontalAlignText="center"
           width="fill-parent">
