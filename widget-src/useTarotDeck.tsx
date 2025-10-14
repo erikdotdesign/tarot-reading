@@ -17,6 +17,7 @@ const useTarotDeck = ({
     const newCards = tarotDeck.drawCards(state.spread);
     setState({
       ...state, 
+      selected: null,
       cards: newCards,
       timestamp: Date.now()
     });
