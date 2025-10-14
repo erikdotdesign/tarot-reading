@@ -9,6 +9,7 @@ import QuestionInput from "./QuestionInput";
 import ReadingDetail from "./ReadingDetail";
 import Deck from "./Deck";
 import CardSpread from "./CardSpread";
+import Instructions from "./Instructions";
 
 const { widget } = figma;
 
@@ -46,9 +47,13 @@ const Board = ({
       <ContainerBody
         width="fill-parent"
         height="fill-parent">
-        <CardSpread
-          state={state}
-          setState={setState} />
+        {
+          state.cards.length === 0
+          ? <Instructions />
+          : <CardSpread
+              state={state}
+              setState={setState} />
+        }
         <Deck 
           drawCards={drawCards}
           positioning="absolute"
