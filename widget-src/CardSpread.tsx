@@ -158,13 +158,13 @@ const CardSpread = ({
             x={1240 - CARD_WIDTH}
             y={0}>
             {
-              [9,8,7,6].map((i) => (
-                  <Card
-                    key={`${state.timestamp}-${i}`}
-                    card={(state.cards as TarotCard[])[i]}
-                    state={state}
-                    setState={setState} />
-                ))
+              [6,7,8,9].map((i) => (
+                <Card
+                  key={`${state.timestamp}-${i}`}
+                  card={(state.cards as TarotCard[])[i]}
+                  state={state}
+                  setState={setState} />
+              ))
             }
           </AutoLayout>
         </AutoLayout>

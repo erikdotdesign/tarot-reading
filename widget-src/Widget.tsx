@@ -2,6 +2,7 @@ import { State, TarotCard } from "./types";
 import style from "./style";
 import useTarotDeck from "./useTarotDeck";
 import Board from "./Board";
+import CardInspector from "./CardInspector";
 
 const { widget } = figma;
 const { AutoLayout, useSyncedState, useEffect, Image, Text, Input, waitForTask } = widget;
@@ -45,10 +46,16 @@ const Widget = () => {
   });
 
   return (
-    <Board
-      state={state}
-      setState={setState}
-      drawCards={drawCards} />
+    <AutoLayout
+      spacing={style.spacing.xLarge}>
+      <Board
+        state={state}
+        setState={setState}
+        drawCards={drawCards} />
+      <CardInspector
+        state={state}
+        setState={setState} />
+    </AutoLayout>
   );
 };
 
