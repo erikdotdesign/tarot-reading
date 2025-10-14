@@ -1,0 +1,455 @@
+[
+    {
+        "name": "Ace of Cups",
+        "symbol": "🏆",
+        "meanings": [
+            "House of the true heart",
+            "Joy",
+            "Content",
+            "Abode",
+            "Nourishment",
+            "Abundance",
+            "Fertility; Holy Table",
+            "Felicity hereof"
+        ],
+        "description": "The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides. It is an intimation of that which may lie behind the Lesser Arcana.",
+        "type": "minor",
+        "value": 1,
+        "suit": "cups"
+    },
+    {
+        "name": "Two of Cups",
+        "symbol": "2️⃣🍷",
+        "meanings": [
+            "Love",
+            "Passion",
+            "Friendship",
+            "Affinity",
+            "Union",
+            "Concord",
+            "Sympathy",
+            "The interrelation of the sexes",
+            "And--as a suggestion apart from all offices of divination--that desire which is not in Nature",
+            "But by which Nature is sanctified"
+        ],
+        "description": "A youth and maiden are pledging one another, and above their cups rises the Caduceus of Hermes, between the great wings of which there appears a lion's head. It is a variant of a sign which is found in a few old examples of this card. Some curious emblematical meanings are attached to it, but they do not concern us in this place.",
+        "type": "minor",
+        "value": 2,
+        "suit": "cups"
+    },
+    {
+        "name": "Three of Cups",
+        "symbol": "🍷🍷🍷",
+        "meanings": [
+            "The conclusion of any matter in plenty",
+            "Perfection and merriment; happy issue",
+            "Victory",
+            "Fulfilment",
+            "Solace",
+            "Healing",
+            ""
+        ],
+        "description": "Maidens in a garden-ground with cups uplifted, as if pledging one another.",
+        "type": "minor",
+        "value": 3,
+        "suit": "cups"
+    },
+    {
+        "name": "Four of Cups",
+        "symbol": "🍷🍷🍷🍷",
+        "meanings": [
+            "Weariness",
+            "Disgust",
+            "Aversion",
+            "Imaginary vexations",
+            "As if the wine of this world had caused satiety only; another wine",
+            "As if a fairy gift",
+            "Is now offered the wastrel",
+            "But he sees no consolation therein This is also a card of blended pleasure."
+        ],
+        "description": "A young man is seated under a tree and contemplates three cups set on the grass before him; an arm issuing from a cloud offers him another cup. His expression notwithstanding is one of discontent with his environment.",
+        "type": "minor",
+        "value": 4,
+        "suit": "cups"
+    },
+    {
+        "name": "Five of Cups",
+        "symbol": "5️⃣🍷",
+        "meanings": [
+            "A dark",
+            "Cloaked figure",
+            "Looking sideways at three prone cups two others stand upright behind him; a bridge is in the background",
+            "Leading to a small keep or holding Divanatory Meanings: It is a card of loss",
+            "But something remains over; three have been taken",
+            "But two are left; it is a card of inheritance",
+            "Patrimony",
+            "Transmission",
+            "But not corresponding to expectations; with some interpreters it is a card of marriage",
+            "But not without bitterness or frustration"
+        ],
+        "description": "A dark, cloaked figure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration. Reversed: News, alliances, affinity, consanguinity, ancestry, return, false projects",
+        "type": "minor",
+        "value": 5,
+        "suit": "cups"
+    },
+    {
+        "name": "Six of Cups",
+        "symbol": "6️⃣🏆",
+        "meanings": [
+            "A card of the past and of memories",
+            "Looking back",
+            "As--for example--on childhood; happiness",
+            "Enjoyment",
+            "But coming rather from the past; things that have vanished Another reading reverses this",
+            "Giving new relations",
+            "New knowledge",
+            "New environment",
+            "And then the children are disporting in an unfamiliar precinct"
+        ],
+        "description": "Children in an old garden, their cups filled with flowers.",
+        "type": "minor",
+        "value": 6,
+        "suit": "cups"
+    },
+    {
+        "name": "Seven of Cups",
+        "symbol": "7️⃣🍷",
+        "meanings": [
+            "Fairy favours",
+            "Images of reflection",
+            "Sentiment",
+            "Imagination",
+            "Things seen in the glass of contemplation; some attainment in these degrees",
+            "But nothing permanent or substantial is suggested"
+        ],
+        "description": "Strange chalices of vision, but the images are more especially those of the fantastic spirit.",
+        "type": "minor",
+        "value": 7,
+        "suit": "cups"
+    },
+    {
+        "name": "Eight of Cups",
+        "symbol": "8️⃣🍷",
+        "meanings": [
+            "The card speaks for itself on the surface",
+            "But other readings are entirely antithetical--giving joy",
+            "Mildness",
+            "Timidity",
+            "Honour",
+            "Modesty In practice",
+            "It is usually found that the card shews the decline of a matter",
+            "Or that a matter which has been thought to be important is really of slight consequence--either for good or evil"
+        ],
+        "description": "A man of dejected aspect is deserting the cups of his felicity, enterprise, undertaking or previous concern.",
+        "type": "minor",
+        "value": 8,
+        "suit": "cups"
+    },
+    {
+        "name": "Nine of Cups",
+        "symbol": "9️⃣🍷",
+        "meanings": [
+            "Concord",
+            "Contentment",
+            "Physical bien-être; also victory",
+            "Success",
+            "Advantage; satisfaction for the Querent or person for whom the consultation is made"
+        ],
+        "description": "A goodly personage has feasted to his heart's content, and abundant refreshment of wine is on the arched counter behind him, seeming to indicate that the future is also assured. The picture offers the material side only, but there are other aspects.",
+        "type": "minor",
+        "value": 9,
+        "suit": "cups"
+    },
+    {
+        "name": "Ten of Cups",
+        "symbol": "🔟🍷",
+        "meanings": [
+            "Contentment",
+            "Repose of the entire heart; the perfection of that state; also perfection of human love and friendship; if with several picture-cards",
+            "A person who is taking charge of the Querent's interests; also the town",
+            "Village or country inhabited by the Querent"
+        ],
+        "description": "Appearance of Cups in a rainbow; it is contemplated in wonder and ecstacy by a man and woman below, evidently husband and wife. His right arm is about her; his left is raised upward; she raises her right arm. The two children dancing near them have not observed the prodigy but are happy after their own manner. There is a home-scene beyond.",
+        "type": "minor",
+        "value": 10,
+        "suit": "cups"
+    },
+    {
+        "name": "Page of Cups",
+        "symbol": "👦🏽🍷",
+        "meanings": [
+            "Fair young man",
+            "One impelled to render service and with whom the Querent will be connected; a studious youth; news",
+            "Message; application",
+            "Reflection",
+            "Meditation; also these things directed to business"
+        ],
+        "description": "A fair, pleasing, somewhat effeminate page, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the pictures of the mind taking form.",
+        "type": "minor",
+        "value": 11,
+        "suit": "cups"
+    },
+    {
+        "name": "Knight of Cups",
+        "symbol": "🏇🏽🍷",
+        "meanings": [
+            "Arrival",
+            "Approach--sometimes that of a messenger; advances",
+            "Proposition",
+            "Demeanour",
+            "Invitation",
+            "Incitement"
+        ],
+        "description": "Graceful, but not warlike; riding quietly, wearing a winged helmet, referring to those higher graces of the imagination which sometimes characterize this card. He too is a dreamer, but the images of the side of sense haunt him in his vision.",
+        "type": "minor",
+        "value": 12,
+        "suit": "cups"
+    },
+    {
+        "name": "Queen of Cups",
+        "symbol": "👸🏽🍷",
+        "meanings": [
+            "Good",
+            "Fair woman; honest",
+            "Devoted woman",
+            "Who will do service to the Querent; loving intelligence",
+            "And hence the gift of vision; success",
+            "Happiness",
+            "Pleasure; also wisdom",
+            "Virtue; a perfect spouse and a good mother"
+        ],
+        "description": "Beautiful, fair, dreamy--as one who sees visions in a cup. This is, however, only one of her aspects; she sees, but she also acts, and her activity feeds her dream.",
+        "type": "minor",
+        "value": 13,
+        "suit": "cups"
+    },
+    {
+        "name": "King of Cups",
+        "symbol": "🤴🍷",
+        "meanings": [
+            "Fair man",
+            "Man of business",
+            "Law",
+            "Or divinity; responsible",
+            "Disposed to oblige the Querent; also equity",
+            "Art and science",
+            "Including those who profess science",
+            "Law and art; creative intelligence"
+        ],
+        "description": "He holds a short sceptre in his left hand and a great cup in his right; his throne is set upon the sea; on one side a ship is riding and on the other a dolphin is leaping. The implicit is that the Sign of the Cup naturally refers to water, which appears in all the court cards.",
+        "type": "minor",
+        "value": 14,
+        "suit": "cups"
+    },
+    {
+        "name": "Ace of Cups Reversed",
+        "symbol": "🏆⬇️",
+        "meanings": [
+            "House of the false heart",
+            "Mutation",
+            "Instability",
+            "Revolution"
+        ],
+        "description": "The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides. It is an intimation of that which may lie behind the Lesser Arcana.",
+        "type": "minor",
+        "value": 1,
+        "suit": "cups"
+    },
+    {
+        "name": "Two of Cups Reversed",
+        "symbol": "2️⃣🍷⬇️",
+        "meanings": [
+            "Lust",
+            "Cupidity",
+            "Jealousy",
+            "Wish",
+            "Desire",
+            "But the card may also give",
+            "Says W",
+            "\"that desire which is not in nature",
+            "But by which nature is sanctified\""
+        ],
+        "description": "A youth and maiden are pledging one another, and above their cups rises the Caduceus of Hermes, between the great wings of which there appears a lion's head. It is a variant of a sign which is found in a few old examples of this card. Some curious emblematical meanings are attached to it, but they do not concern us in this place.",
+        "type": "minor",
+        "value": 2,
+        "suit": "cups"
+    },
+    {
+        "name": "Three of Cups Reversed",
+        "symbol": "3️⃣🍷⬇️",
+        "meanings": [
+            "Expedition",
+            "Dispatch",
+            "Achievement",
+            "End It signifies also the side of excess in physical enjoyment",
+            "And the pleasures of the senses"
+        ],
+        "description": "Maidens in a garden-ground with cups uplifted, as if pledging one another.",
+        "type": "minor",
+        "value": 3,
+        "suit": "cups"
+    },
+    {
+        "name": "Four of Cups Reversed",
+        "symbol": "4️⃣🔄",
+        "meanings": [
+            "Novelty",
+            "Presage",
+            "New instruction",
+            "New relations"
+        ],
+        "description": "A young man is seated under a tree and contemplates three cups set on the grass before him; an arm issuing from a cloud offers him another cup. His expression notwithstanding is one of discontent with his environment.",
+        "type": "minor",
+        "value": 4,
+        "suit": "cups"
+    },
+    {
+        "name": "Five of Cups Reversed",
+        "symbol": "5️⃣🍷⬇️",
+        "meanings": [
+            "News",
+            "Alliances",
+            "Affinity",
+            "Consanguinity",
+            "Ancestry",
+            "Return",
+            "False projects"
+        ],
+        "description": "A dark, cloaked figure, looking sideways at three prone cups two others stand upright behind him; a bridge is in the background, leading to a small keep or holding. Divanatory Meanings: It is a card of loss, but something remains over; three have been taken, but two are left; it is a card of inheritance, patrimony, transmission, but not corresponding to expectations; with some interpreters it is a card of marriage, but not without bitterness or frustration. Reversed: News, alliances, affinity, consanguinity, ancestry, return, false projects",
+        "type": "minor",
+        "value": 5,
+        "suit": "cups"
+    },
+    {
+        "name": "Six of Cups Reversed",
+        "symbol": "6️⃣⬇️",
+        "meanings": [
+            "The future",
+            "Renewal",
+            "That which will come to pass presently"
+        ],
+        "description": "Children in an old garden, their cups filled with flowers.",
+        "type": "minor",
+        "value": 6,
+        "suit": "cups"
+    },
+    {
+        "name": "Seven of Cups Reversed",
+        "symbol": "7️⃣⬇️",
+        "meanings": [
+            "Desire",
+            "Will",
+            "Determination",
+            "Project"
+        ],
+        "description": "Strange chalices of vision, but the images are more especially those of the fantastic spirit.",
+        "type": "minor",
+        "value": 7,
+        "suit": "cups"
+    },
+    {
+        "name": "Eight of Cups Reversed",
+        "symbol": "8️⃣🍷⬇️",
+        "meanings": [
+            "Great joy",
+            "Happiness",
+            "Feasting"
+        ],
+        "description": "A man of dejected aspect is deserting the cups of his felicity, enterprise, undertaking or previous concern.",
+        "type": "minor",
+        "value": 8,
+        "suit": "cups"
+    },
+    {
+        "name": "Nine of Cups Reversed",
+        "symbol": "9️⃣⬇️",
+        "meanings": [
+            "Truth",
+            "Loyalty",
+            "Liberty; but the readings vary and include mistakes",
+            "Imperfections",
+            "Etc"
+        ],
+        "description": "A goodly personage has feasted to his heart's content, and abundant refreshment of wine is on the arched counter behind him, seeming to indicate that the future is also assured. The picture offers the material side only, but there are other aspects.",
+        "type": "minor",
+        "value": 9,
+        "suit": "cups"
+    },
+    {
+        "name": "Ten of Cups Reversed",
+        "symbol": "🔟🔄",
+        "meanings": [
+            "Repose of the false heart",
+            "Indignation",
+            "Violence"
+        ],
+        "description": "Appearance of Cups in a rainbow; it is contemplated in wonder and ecstacy by a man and woman below, evidently husband and wife. His right arm is about her; his left is raised upward; she raises her right arm. The two children dancing near them have not observed the prodigy but are happy after their own manner. There is a home-scene beyond.",
+        "type": "minor",
+        "value": 10,
+        "suit": "cups"
+    },
+    {
+        "name": "Page of Cups Reversed",
+        "symbol": "👦🏻⬇️",
+        "meanings": [
+            "Taste",
+            "Inclination",
+            "Attachment",
+            "Seduction",
+            "Deception",
+            "Artifice"
+        ],
+        "description": "A fair, pleasing, somewhat effeminate page, of studious and intent aspect, contemplates a fish rising from a cup to look at him. It is the pictures of the mind taking form.",
+        "type": "minor",
+        "value": 11,
+        "suit": "cups"
+    },
+    {
+        "name": "Knight of Cups Reversed",
+        "symbol": "🏇⬇️",
+        "meanings": [
+            "Trickery",
+            "Artifice",
+            "Subtlety",
+            "Swindling",
+            "Duplicity",
+            "Fraud"
+        ],
+        "description": "Graceful, but not warlike; riding quietly, wearing a winged helmet, referring to those higher graces of the imagination which sometimes characterize this card. He too is a dreamer, but the images of the side of sense haunt him in his vision.",
+        "type": "minor",
+        "value": 12,
+        "suit": "cups"
+    },
+    {
+        "name": "Queen of Cups Reversed",
+        "symbol": "👸🔄",
+        "meanings": [
+            "The accounts vary; good woman; otherwise",
+            "Distinguished woman but one not to be trusted; perverse woman; vice",
+            "Dishonour",
+            "Depravity"
+        ],
+        "description": "Beautiful, fair, dreamy--as one who sees visions in a cup. This is, however, only one of her aspects; she sees, but she also acts, and her activity feeds her dream.",
+        "type": "minor",
+        "value": 13,
+        "suit": "cups"
+    },
+    {
+        "name": "King of Cups Reversed",
+        "symbol": "🤴⬇️",
+        "meanings": [
+            "Dishonest",
+            "Double-dealing man; roguery",
+            "Exaction",
+            "Injustice",
+            "Vice",
+            "Scandal",
+            "Pillage",
+            "Considerable loss"
+        ],
+        "description": "He holds a short sceptre in his left hand and a great cup in his right; his throne is set upon the sea; on one side a ship is riding and on the other a dolphin is leaping. The implicit is that the Sign of the Cup naturally refers to water, which appears in all the court cards.",
+        "type": "minor",
+        "value": 14,
+        "suit": "cups"
+    }
+]

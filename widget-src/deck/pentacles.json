@@ -1,0 +1,430 @@
+[
+    {
+        "name": "Ace of Pentacles",
+        "symbol": "🌱",
+        "meanings": [
+            "Perfect contentment",
+            "Felicity",
+            "Ecstasy; also speedy intelligence; gold"
+        ],
+        "description": "A hand--issuing, as usual, from a cloud--holds up a pentacle.",
+        "type": "minor",
+        "value": 1,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Two of Pentacles",
+        "symbol": "2️⃣🌱",
+        "meanings": [
+            "On the one hand it is represented as a card of gaiety",
+            "Recreation and its connexions",
+            "Which is the subject of the design; but it is read also as news and messages in writing",
+            "As obstacles",
+            "Agitation",
+            "Trouble",
+            "Embroilment"
+        ],
+        "description": "A young man, in the act of dancing, has a pentacle in either hand, and they are joined by that endless cord which is like the number 8 reversed.",
+        "type": "minor",
+        "value": 2,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Three of Pentacles",
+        "symbol": "🔨🌱",
+        "meanings": [
+            "Métier",
+            "Trade",
+            "Skilled labour; usually",
+            "However",
+            "Regarded as a card of nobility",
+            "Aristocracy",
+            "Renown",
+            "Glory"
+        ],
+        "description": "A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest.",
+        "type": "minor",
+        "value": 3,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Four of Pentacles",
+        "symbol": "4️⃣🌱",
+        "meanings": [
+            "The surety of possessions",
+            "Cleaving to that which one has",
+            "Gift",
+            "Legacy",
+            "Inheritance"
+        ],
+        "description": "A crowned figure, having a pentacle over his crown, clasps another with hands and arms; two pentacles are under his feet. He holds to that which he has.",
+        "type": "minor",
+        "value": 4,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Five of Pentacles",
+        "symbol": "5️⃣🌱",
+        "meanings": [
+            "The card foretells material trouble above all",
+            "Whether in the form illustrated--that is",
+            "Destitution--or otherwise For some cartomancists",
+            "It is a card of love and lovers-wife",
+            "Husband",
+            "Friend",
+            "Mistress; also concordance",
+            "Affinities These alternatives cannot be harmonized."
+        ],
+        "description": "Two mendicants in a snow-storm pass a lighted casement.",
+        "type": "minor",
+        "value": 5,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Six of Pentacles",
+        "symbol": "6️⃣🌱",
+        "meanings": [
+            "Presents",
+            "Gifts",
+            "Gratification another account says attention",
+            "Vigilance now is the accepted time",
+            "Present prosperity",
+            "Etc"
+        ],
+        "description": "A person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed. It is a testimony to his own success in life, as well as to his goodness of heart.",
+        "type": "minor",
+        "value": 6,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Seven of Pentacles",
+        "symbol": "7️⃣🌱",
+        "meanings": [
+            "These are exceedingly contradictory; in the main",
+            "It is a card of money",
+            "Business",
+            "Barter; but one reading gives altercation",
+            "Quarrels--and another innocence",
+            "Ingenuity",
+            "Purgation"
+        ],
+        "description": "A young man, leaning on his staff, looks intently at seven pentacles attached to a clump of greenery on his right; one would say that these were his treasures and that his heart was there.",
+        "type": "minor",
+        "value": 7,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Eight of Pentacles",
+        "symbol": "8️⃣🌱",
+        "meanings": [
+            "Work",
+            "Employment",
+            "Commission",
+            "Craftsmanship",
+            "Skill in craft and business",
+            "Perhaps in the preparatory stage"
+        ],
+        "description": "An artist in stone at his work, which he exhibits in the form of trophies.",
+        "type": "minor",
+        "value": 8,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Nine of Pentacles",
+        "symbol": "9️⃣🌱",
+        "meanings": [
+            "Prudence",
+            "Safety",
+            "Success",
+            "Accomplishment",
+            "Certitude",
+            "Discernment"
+        ],
+        "description": "A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things. Possibly it is her own possession and testifies to material well-being.",
+        "type": "minor",
+        "value": 9,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Ten of Pentacles",
+        "symbol": "🔟🌱",
+        "meanings": [
+            "Gain",
+            "Riches; family matters",
+            "Archives",
+            "Extraction",
+            "The abode of a family"
+        ],
+        "description": "A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them.",
+        "type": "minor",
+        "value": 10,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Page of Pentacles",
+        "symbol": "📚🌱",
+        "meanings": [
+            "Application",
+            "Study",
+            "Scholarship",
+            "Reflection another reading says news",
+            "Messages and the bringer thereof; also rule",
+            "Management"
+        ],
+        "description": "A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him.",
+        "type": "minor",
+        "value": 11,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Knight of Pentacles",
+        "symbol": "🐎🌱",
+        "meanings": [
+            "Utility",
+            "Serviceableness",
+            "Interest",
+            "Responsibility",
+            "Rectitude-all on the normal and external plane"
+        ],
+        "description": "He rides a slow, enduring, heavy horse, to which his own aspect corresponds. He exhibits his symbol, but does not look therein.",
+        "type": "minor",
+        "value": 12,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Queen of Pentacles",
+        "symbol": "👸🌱",
+        "meanings": [
+            "Opulence",
+            "Generosity",
+            "Magnificence",
+            "Security",
+            "Liberty"
+        ],
+        "description": "The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein.",
+        "type": "minor",
+        "value": 13,
+        "suit": "pentacles"
+    },
+    {
+        "name": "King of Pentacles",
+        "symbol": "🤴🌱",
+        "meanings": [
+            "Valour",
+            "Realizing intelligence",
+            "Business and normal intellectual aptitude",
+            "Sometimes mathematical gifts and attainments of this kind; success in these paths"
+        ],
+        "description": "The figure calls for no special description the face is rather dark, suggesting also courage, but somewhat lethargic in tendency. The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram, typifying the correspondence of the four elements in human nature and that by which they may be governed. In many old Tarot packs this suit stood for current coin, money, deniers. I have not invented the substitution of pentacles and I have no special cause to sustain in respect of the alternative. But the consensus of divinatory meanings is on the side of some change, because the cards do not happen to deal especially with questions of money.",
+        "type": "minor",
+        "value": 14,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Ace of Pentacles Reversed",
+        "symbol": "🔱⬇️",
+        "meanings": [
+            "The evil side of wealth",
+            "Bad intelligence; also great riches In any case it shews prosperity",
+            "Comfortable material conditions",
+            "But whether these are of advantage to the possessor will depend on whether the card is reversed or not"
+        ],
+        "description": "A hand--issuing, as usual, from a cloud--holds up a pentacle.",
+        "type": "minor",
+        "value": 1,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Two of Pentacles Reversed",
+        "symbol": "2⃣⬇️",
+        "meanings": [
+            "Enforced gaiety",
+            "Simulated enjoyment",
+            "Literal sense",
+            "Handwriting",
+            "Composition",
+            "Letters of exchange"
+        ],
+        "description": "A young man, in the act of dancing, has a pentacle in either hand, and they are joined by that endless cord which is like the number 8 reversed.",
+        "type": "minor",
+        "value": 2,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Three of Pentacles Reversed",
+        "symbol": "3⃣⬇️",
+        "meanings": [
+            "Mediocrity",
+            "In work and otherwise",
+            "Puerility",
+            "Pettiness",
+            "Weakness"
+        ],
+        "description": "A sculptor at his work in a monastery. Compare the design which illustrates the Eight of Pentacles. The apprentice or amateur therein has received his reward and is now at work in earnest.",
+        "type": "minor",
+        "value": 3,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Four of Pentacles Reversed",
+        "symbol": "4⃣⬇️",
+        "meanings": [
+            "Suspense",
+            "Delay",
+            "Opposition"
+        ],
+        "description": "A crowned figure, having a pentacle over his crown, clasps another with hands and arms; two pentacles are under his feet. He holds to that which he has.",
+        "type": "minor",
+        "value": 4,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Five of Pentacles Reversed",
+        "symbol": "5⃣⬇️",
+        "meanings": [
+            "Disorder",
+            "Chaos",
+            "Ruin",
+            "Discord",
+            "Profligacy"
+        ],
+        "description": "Two mendicants in a snow-storm pass a lighted casement.",
+        "type": "minor",
+        "value": 5,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Six of Pentacles Reversed",
+        "symbol": "6⃣⬇️",
+        "meanings": [
+            "Desire",
+            "Cupidity",
+            "Envy",
+            "Jealousy",
+            "Illusion"
+        ],
+        "description": "A person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed. It is a testimony to his own success in life, as well as to his goodness of heart.",
+        "type": "minor",
+        "value": 6,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Seven of Pentacles Reversed",
+        "symbol": "7⬇️",
+        "meanings": [
+            "Cause for anxiety regarding money which it may be proposed to lend"
+        ],
+        "description": "A young man, leaning on his staff, looks intently at seven pentacles attached to a clump of greenery on his right; one would say that these were his treasures and that his heart was there.",
+        "type": "minor",
+        "value": 7,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Eight of Pentacles Reversed",
+        "symbol": "8⃣⬇️",
+        "meanings": [
+            "Voided ambition",
+            "Vanity",
+            "Cupidity",
+            "Exaction",
+            "Usury It may also signify the possession of skill",
+            "In the sense of the ingenious mind turned to cunning and intrigue"
+        ],
+        "description": "An artist in stone at his work, which he exhibits in the form of trophies.",
+        "type": "minor",
+        "value": 8,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Nine of Pentacles Reversed",
+        "symbol": "9⃣⬇️",
+        "meanings": [
+            "Roguery",
+            "Deception",
+            "Voided project",
+            "Bad faith"
+        ],
+        "description": "A woman, with a bird upon her wrist, stands amidst a great abundance of grapevines in the garden of a manorial house. It is a wide domain, suggesting plenty in all things. Possibly it is her own possession and testifies to material well-being.",
+        "type": "minor",
+        "value": 9,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Ten of Pentacles Reversed",
+        "symbol": "🔟⬇️",
+        "meanings": [
+            "Chance",
+            "Fatality",
+            "Loss",
+            "Robbery",
+            "Games of hazard; sometimes gift",
+            "Dowry",
+            "Pension"
+        ],
+        "description": "A man and woman beneath an archway which gives entrance to a house and domain. They are accompanied by a child, who looks curiously at two dogs accosting an ancient personage seated in the foreground. The child's hand is on one of them.",
+        "type": "minor",
+        "value": 10,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Page of Pentacles Reversed",
+        "symbol": "📜⬇️",
+        "meanings": [
+            "Prodigality",
+            "Dissipation",
+            "Liberality",
+            "Luxury; unfavourable news"
+        ],
+        "description": "A youthful figure, looking intently at the pentacle which hovers over his raised hands. He moves slowly, insensible of that which is about him.",
+        "type": "minor",
+        "value": 11,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Knight of Pentacles Reversed",
+        "symbol": "🐎⬇️",
+        "meanings": [
+            "Inertia",
+            "Idleness",
+            "Repose of that kind",
+            "Stagnation; also placidity",
+            "Discouragement",
+            "Carelessness"
+        ],
+        "description": "He rides a slow, enduring, heavy horse, to which his own aspect corresponds. He exhibits his symbol, but does not look therein.",
+        "type": "minor",
+        "value": 12,
+        "suit": "pentacles"
+    },
+    {
+        "name": "Queen of Pentacles Reversed",
+        "symbol": "👸🔄🌱",
+        "meanings": [
+            "Evil",
+            "Suspicion",
+            "Suspense",
+            "Fear",
+            "Mistrust"
+        ],
+        "description": "The face suggests that of a dark woman, whose qualities might be summed up in the idea of greatness of soul; she has also the serious cast of intelligence; she contemplates her symbol and may see worlds therein.",
+        "type": "minor",
+        "value": 13,
+        "suit": "pentacles"
+    },
+    {
+        "name": "King of Pentacles Reversed",
+        "symbol": "🤴⬇️",
+        "meanings": [
+            "Vice",
+            "Weakness",
+            "Ugliness",
+            "Perversity",
+            "Corruption",
+            "Peril"
+        ],
+        "description": "The figure calls for no special description the face is rather dark, suggesting also courage, but somewhat lethargic in tendency. The bull's head should be noted as a recurrent symbol on the throne. The sign of this suit is represented throughout as engraved or blazoned with the pentagram, typifying the correspondence of the four elements in human nature and that by which they may be governed. In many old Tarot packs this suit stood for current coin, money, deniers. I have not invented the substitution of pentacles and I have no special cause to sustain in respect of the alternative. But the consensus of divinatory meanings is on the side of some change, because the cards do not happen to deal especially with questions of money.",
+        "type": "minor",
+        "value": 14,
+        "suit": "pentacles"
+    }
+]

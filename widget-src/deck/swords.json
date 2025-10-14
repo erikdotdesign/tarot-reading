@@ -1,0 +1,443 @@
+[
+    {
+        "name": "Ace of Swords",
+        "symbol": "🗡️",
+        "meanings": [
+            "Triumph",
+            "The excessive degree in everything",
+            "Conquest",
+            "Triumph of force It is a card of great force",
+            "In love as well as in hatred The crown may carry a much higher significance than comes usually within the sphere of fortune-telling."
+        ],
+        "description": "A hand issues from a cloud, grasping as word, the point of which is encircled by a crown.",
+        "type": "minor",
+        "value": 1,
+        "suit": "swords"
+    },
+    {
+        "name": "Two of Swords",
+        "symbol": "⚔️",
+        "meanings": [
+            "Conformity and the equipoise which it suggests",
+            "Courage",
+            "Friendship",
+            "Concord in a state of arms; another reading gives tenderness",
+            "Affection",
+            "Intimacy The suggestion of harmony and other favourable readings must be considered in a qualified manner",
+            "As Swords generally are not symbolical of beneficent forces in human affairs"
+        ],
+        "description": "A hoodwinked female figure balances two swords upon her shoulders.",
+        "type": "minor",
+        "value": 2,
+        "suit": "swords"
+    },
+    {
+        "name": "Three of Swords",
+        "symbol": "🗡️🗡️🗡️",
+        "meanings": [
+            "Removal",
+            "Absence",
+            "Delay",
+            "Division",
+            "Rupture",
+            "Dispersion",
+            "And all that the design signifies naturally",
+            "Being too simple and obvious to call for specific enumeration"
+        ],
+        "description": "Three swords piercing a heart; cloud and rain behind.",
+        "type": "minor",
+        "value": 3,
+        "suit": "swords"
+    },
+    {
+        "name": "Four of Swords",
+        "symbol": "🗡️🗡️🗡️🗡️",
+        "meanings": [
+            "Vigilance",
+            "Retreat",
+            "Solitude",
+            "Hermit's repose",
+            "Exile",
+            "Tomb and coffin It is these last that have suggested the design."
+        ],
+        "description": "The effigy of a knight in the attitude of prayer, at full length upon his tomb.",
+        "type": "minor",
+        "value": 4,
+        "suit": "swords"
+    },
+    {
+        "name": "Five of Swords",
+        "symbol": "🗡️5️⃣",
+        "meanings": [
+            "Degradation",
+            "Destruction",
+            "Revocation",
+            "Infamy",
+            "Dishonour",
+            "Loss",
+            "With the variants and analogues of these"
+        ],
+        "description": "A disdainful man looks after two retreating and dejected figures. Their swords lie upon the ground. He carries two others on his left shoulder, and a third sword is in his right hand, point to earth. He is the master in possession of the field.",
+        "type": "minor",
+        "value": 5,
+        "suit": "swords"
+    },
+    {
+        "name": "Six of Swords",
+        "symbol": "6⚔️",
+        "meanings": [
+            "Journey by water",
+            "Route",
+            "Way",
+            "Envoy",
+            "Commissionary",
+            "Expedient"
+        ],
+        "description": "A ferryman carrying passengers in his punt to the further shore. The course is smooth, and seeing that the freight is light, it may be noted that the work is not beyond his strength.",
+        "type": "minor",
+        "value": 6,
+        "suit": "swords"
+    },
+    {
+        "name": "Seven of Swords",
+        "symbol": "7⚔️",
+        "meanings": [
+            "Design",
+            "Attempt",
+            "Wish",
+            "Hope",
+            "Confidence; also quarrelling",
+            "A plan that may fail",
+            "Annoyance The design is uncertain in its import",
+            "Because the significations are widely at variance with each other"
+        ],
+        "description": "A man in the act of carrying away five swords rapidly; the two others of the card remain stuck in the ground. A camp is close at hand.",
+        "type": "minor",
+        "value": 7,
+        "suit": "swords"
+    },
+    {
+        "name": "Eight of Swords",
+        "symbol": "8⚔️",
+        "meanings": [
+            "Bad news",
+            "Violent chagrin",
+            "Crisis",
+            "Censure",
+            "Power in trammels",
+            "Conflict",
+            "Calumny; also sickness"
+        ],
+        "description": "A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage.",
+        "type": "minor",
+        "value": 8,
+        "suit": "swords"
+    },
+    {
+        "name": "Nine of Swords",
+        "symbol": "🗡️9️⃣",
+        "meanings": [
+            "Death",
+            "Failure",
+            "Miscarriage",
+            "Delay",
+            "Deception",
+            "Disappointment",
+            "Despair"
+        ],
+        "description": "One seated on her couch in lamentation, with the swords over her. She is as one who knows no sorrow which is like unto hers. It is a card of utter desolation.",
+        "type": "minor",
+        "value": 9,
+        "suit": "swords"
+    },
+    {
+        "name": "Ten of Swords",
+        "symbol": "🗡️x10",
+        "meanings": [
+            "Whatsoever is intimated by the design; also pain",
+            "Affliction",
+            "Tears",
+            "Sadness",
+            "Desolation It is not especially a card of violent death."
+        ],
+        "description": "A prostrate figure, pierced by all the swords belonging to the card.",
+        "type": "minor",
+        "value": 10,
+        "suit": "swords"
+    },
+    {
+        "name": "Page of Swords",
+        "symbol": "🗡️📚",
+        "meanings": [
+            "Authority",
+            "Overseeing",
+            "Secret service",
+            "Vigilance",
+            "Spying",
+            "Examination",
+            "And the qualities thereto belonging"
+        ],
+        "description": "A lithe, active figure holds a sword upright in both hands, while in the act of swift walking. He is passing over rugged land, and about his way the clouds are collocated wildly. He is alert and lithe, looking this way and that, as if an expected enemy might appear at any moment.",
+        "type": "minor",
+        "value": 11,
+        "suit": "swords"
+    },
+    {
+        "name": "Knight of Swords",
+        "symbol": "🗡️🏇",
+        "meanings": [
+            "Skill",
+            "Bravery",
+            "Capacity",
+            "Defence",
+            "Address",
+            "Enmity",
+            "Wrath",
+            "War",
+            "Destruction",
+            "Opposition",
+            "Resistance",
+            "Ruin There is therefore a sense in which the card signifies death",
+            "But it carries this meaning only in its proximity to other cards of fatality"
+        ],
+        "description": "He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart.",
+        "type": "minor",
+        "value": 12,
+        "suit": "swords"
+    },
+    {
+        "name": "Queen of Swords",
+        "symbol": "👸⚔️",
+        "meanings": [
+            "Widowhood",
+            "Female sadness and embarrassment",
+            "Absence",
+            "Sterility",
+            "Mourning",
+            "Privation",
+            "Separation"
+        ],
+        "description": "Her right hand raises the weapon vertically and the hilt rests on an arm of her royal chair the left hand is extended, the arm raised her countenance is severe but chastened; it suggests familiarity with sorrow. It does not represent mercy, and, her sword notwithstanding, she is scarcely a symbol of power.",
+        "type": "minor",
+        "value": 13,
+        "suit": "swords"
+    },
+    {
+        "name": "King of Swords",
+        "symbol": "🤴⚔️",
+        "meanings": [
+            "Whatsoever arises out of the idea of judgment and all its connexions-power",
+            "Command",
+            "Authority",
+            "Militant intelligence",
+            "Law",
+            "Offices of the crown",
+            "And so forth"
+        ],
+        "description": "He sits in judgment, holding the unsheathed sign of his suit. He recalls, of course, the conventional Symbol of justice in the Trumps Major, and he may represent this virtue, but he is rather the power of life and death, in virtue of his office.",
+        "type": "minor",
+        "value": 14,
+        "suit": "swords"
+    },
+    {
+        "name": "Ace of Swords Reversed",
+        "symbol": "🗡️⬇️",
+        "meanings": [
+            "The same",
+            "But the results are disastrous; another account says--conception",
+            "Childbirth",
+            "Augmentation",
+            "Multiplicity"
+        ],
+        "description": "A hand issues from a cloud, grasping as word, the point of which is encircled by a crown.",
+        "type": "minor",
+        "value": 1,
+        "suit": "swords"
+    },
+    {
+        "name": "Two of Swords Reversed",
+        "symbol": "⚔️⬇️",
+        "meanings": [
+            "Imposture",
+            "Falsehood",
+            "Duplicity",
+            "Disloyalty"
+        ],
+        "description": "A hoodwinked female figure balances two swords upon her shoulders.",
+        "type": "minor",
+        "value": 2,
+        "suit": "swords"
+    },
+    {
+        "name": "Three of Swords Reversed",
+        "symbol": "3⚔️⬇️",
+        "meanings": [
+            "Mental alienation",
+            "Error",
+            "Loss",
+            "Distraction",
+            "Disorder",
+            "Confusion"
+        ],
+        "description": "Three swords piercing a heart; cloud and rain behind.",
+        "type": "minor",
+        "value": 3,
+        "suit": "swords"
+    },
+    {
+        "name": "Four of Swords Reversed",
+        "symbol": "⚔️⬇️",
+        "meanings": [
+            "Wise administration",
+            "Circumspection",
+            "Economy",
+            "Avarice",
+            "Precaution",
+            "Testament"
+        ],
+        "description": "The effigy of a knight in the attitude of prayer, at full length upon his tomb.",
+        "type": "minor",
+        "value": 4,
+        "suit": "swords"
+    },
+    {
+        "name": "Five of Swords Reversed",
+        "symbol": "5⚔️⬇️",
+        "meanings": [
+            "The same; burial and obsequies"
+        ],
+        "description": "A disdainful man looks after two retreating and dejected figures. Their swords lie upon the ground. He carries two others on his left shoulder, and a third sword is in his right hand, point to earth. He is the master in possession of the field.",
+        "type": "minor",
+        "value": 5,
+        "suit": "swords"
+    },
+    {
+        "name": "Six of Swords Reversed",
+        "symbol": "6⚔️⬇️",
+        "meanings": [
+            "Declaration",
+            "Confession",
+            "Publicity; one account says that it is a proposal of love"
+        ],
+        "description": "A ferryman carrying passengers in his punt to the further shore. The course is smooth, and seeing that the freight is light, it may be noted that the work is not beyond his strength.",
+        "type": "minor",
+        "value": 6,
+        "suit": "swords"
+    },
+    {
+        "name": "Seven of Swords Reversed",
+        "symbol": "7⚔️⬇️",
+        "meanings": [
+            "Good advice",
+            "Counsel",
+            "Instruction",
+            "Slander",
+            "Babbling"
+        ],
+        "description": "A man in the act of carrying away five swords rapidly; the two others of the card remain stuck in the ground. A camp is close at hand.",
+        "type": "minor",
+        "value": 7,
+        "suit": "swords"
+    },
+    {
+        "name": "Eight of Swords Reversed",
+        "symbol": "8⚔️⬇️",
+        "meanings": [
+            "Disquiet",
+            "Difficulty",
+            "Opposition",
+            "Accident",
+            "Treachery; what is unforeseen; fatality"
+        ],
+        "description": "A woman, bound and hoodwinked, with the swords of the card about her. Yet it is rather a card of temporary durance than of irretrievable bondage.",
+        "type": "minor",
+        "value": 8,
+        "suit": "swords"
+    },
+    {
+        "name": "Nine of Swords Reversed",
+        "symbol": "9⚔️⬇️",
+        "meanings": [
+            "Imprisonment",
+            "Suspicion",
+            "Doubt",
+            "Reasonable fear",
+            "Shame"
+        ],
+        "description": "One seated on her couch in lamentation, with the swords over her. She is as one who knows no sorrow which is like unto hers. It is a card of utter desolation.",
+        "type": "minor",
+        "value": 9,
+        "suit": "swords"
+    },
+    {
+        "name": "Ten of Swords Reversed",
+        "symbol": "🔟⚔️⬇️",
+        "meanings": [
+            "Advantage",
+            "Profit",
+            "Success",
+            "Favour",
+            "But none of these are permanent; also power and authority"
+        ],
+        "description": "A prostrate figure, pierced by all the swords belonging to the card.",
+        "type": "minor",
+        "value": 10,
+        "suit": "swords"
+    },
+    {
+        "name": "Page of Swords Reversed",
+        "symbol": "🚶‍♂️⚔️⬇️",
+        "meanings": [
+            "More evil side of these qualities; what is unforeseen",
+            "Unprepared state; sickness is also intimated"
+        ],
+        "description": "A lithe, active figure holds a sword upright in both hands, while in the act of swift walking. He is passing over rugged land, and about his way the clouds are collocated wildly. He is alert and lithe, looking this way and that, as if an expected enemy might appear at any moment.",
+        "type": "minor",
+        "value": 11,
+        "suit": "swords"
+    },
+    {
+        "name": "Knight of Swords Reversed",
+        "symbol": "🗡️⬇️",
+        "meanings": [
+            "Imprudence",
+            "Incapacity",
+            "Extravagance"
+        ],
+        "description": "He is riding in full course, as if scattering his enemies. In the design he is really a prototypical hero of romantic chivalry. He might almost be Galahad, whose sword is swift and sure because he is clean of heart.",
+        "type": "minor",
+        "value": 12,
+        "suit": "swords"
+    },
+    {
+        "name": "Queen of Swords Reversed",
+        "symbol": "👸⚔️⬇️",
+        "meanings": [
+            "Malice",
+            "Bigotry",
+            "Artifice",
+            "Prudery",
+            "Bale",
+            "Deceit"
+        ],
+        "description": "Her right hand raises the weapon vertically and the hilt rests on an arm of her royal chair the left hand is extended, the arm raised her countenance is severe but chastened; it suggests familiarity with sorrow. It does not represent mercy, and, her sword notwithstanding, she is scarcely a symbol of power.",
+        "type": "minor",
+        "value": 13,
+        "suit": "swords"
+    },
+    {
+        "name": "King of Swords Reversed",
+        "symbol": "🤴⚔️⬇️",
+        "meanings": [
+            "Cruelty",
+            "Perversity",
+            "Barbarity",
+            "Perfidy",
+            "Evil intention"
+        ],
+        "description": "He sits in judgment, holding the unsheathed sign of his suit. He recalls, of course, the conventional Symbol of justice in the Trumps Major, and he may represent this virtue, but he is rather the power of life and death, in virtue of his office.",
+        "type": "minor",
+        "value": 14,
+        "suit": "swords"
+    }
+]
