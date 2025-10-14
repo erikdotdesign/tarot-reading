@@ -19,8 +19,8 @@ const QuestionInput = ({
       inputFrameProps={{
         padding: {
           top: 24,
-          bottom: 40
-        }
+          bottom: 19
+        },
       }}
       placeholderProps={{
         ...style.textStyle.input,
@@ -28,8 +28,9 @@ const QuestionInput = ({
         opacity: 1
       }}
       placeholder="What is your question?"
-      verticalAlignText="center"
+      verticalAlignText="top"
       horizontalAlignText="center"
+      inputBehavior="truncate"
       {...style.textStyle.input} />
   );
 };
