@@ -22,7 +22,7 @@ export type CardDrawSpread = 1 | 3 | 5 | 10;
 export type State = {
   question: string;
   spread: CardDrawSpread;
-  cards: TarotCard[] | null;
+  cards: TarotCard[];
   timestamp: number | null;
   selected: TarotCard | null;
 };

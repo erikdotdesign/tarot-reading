@@ -31,14 +31,16 @@ const baseStyle = {
     small: 16,
     shmedium: 24,
     medium: 32,
-    large: 48
+    large: 48,
+    xLarge: 64
   },
   padding: {
     xSmall: 8,
     small: 16,
     shmedium: 24,
     medium: 32,
-    large: 48
+    large: 48,
+    xLarge: 64
   },
   fontFamily: {
     header: "Spectral SC",

@@ -27,7 +27,11 @@ const ReadingDetail = ({
             width={160}
             onClick={() => {
               if (state.spread === type) return;
-              setState({...state, spread: type as CardDrawSpread});
+              setState({
+                ...state,
+                cards: [],
+                spread: type as CardDrawSpread
+              });
             }}>
             {`${type} cards`}
           </Button>

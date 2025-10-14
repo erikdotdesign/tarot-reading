@@ -8,6 +8,7 @@ import TextHeader from "./TextHeader";
 import QuestionInput from "./QuestionInput";
 import ReadingDetail from "./ReadingDetail";
 import Deck from "./Deck";
+import CardSpread from "./CardSpread";
 
 const { widget } = figma;
 
@@ -45,6 +46,9 @@ const Board = ({
       <ContainerBody
         width="fill-parent"
         height="fill-parent">
+        <CardSpread
+          state={state}
+          setState={setState} />
         <Deck 
           drawCards={drawCards}
           positioning="absolute"

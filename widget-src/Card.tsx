@@ -1,4 +1,4 @@
-import { TarotCard } from "./types";
+import { State, TarotCard } from "./types";
 import style from "./style";
 
 import CardImage from "./CardImage";
@@ -6,29 +6,40 @@ import CardImage from "./CardImage";
 const { widget } = figma;
 const { AutoLayout, Image, Text } = widget;
 
+export const CARD_WIDTH = 144;
+export const CARD_HEIGHT = 224;
+
 const Card = ({
   card,
-  isSelected,
-  index,
-  onClick
+  state,
+  setState,
+  ...props
 }: {
   card: TarotCard;
-  isSelected: boolean;
-  index: number;
-  onClick: (card: TarotCard) => void;
-}) => {
+  state: State;
+  setState: (state: State) => void;
+} & WidgetJSX.WidgetJSXAutoLayoutProps) => {
+
+  const isSelected = state.selected ? state.selected.name === card.name : false;
+  const number = state.cards.indexOf(card) + 1;
+  const handleClick = () => {
+    if (isSelected) return;
+    setState({...state, selected: card});
+  }
+
   return (
     <AutoLayout
       name={card.name}
-      width={144}
-      height={224}
+      width={CARD_WIDTH}
+      height={CARD_HEIGHT}
       verticalAlignItems="center"
       horizontalAlignItems="center"
-      fill={isSelected ? style.color.red : style.color.bg.z0}
+      fill={isSelected ? style.color.red : `#00000000`}
       strokeWidth={style.strokeWidth.small}
       stroke={isSelected ? style.color.black : undefined}
       strokeAlign="inside"
-      onClick={() => onClick(card)}>
+      onClick={handleClick}
+      {...props}>
       <CardImage
         card={card} />
       <AutoLayout
@@ -46,7 +57,7 @@ const Card = ({
           {...style.textStyle.body} 
           fontWeight={style.fontWeight.bold}
           fill={isSelected ? style.color.black : style.color.white}>
-          {index}
+          {number}
         </Text>
       </AutoLayout>
     </AutoLayout>

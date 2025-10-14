@@ -10,7 +10,7 @@ const Widget = () => {
   const [state, setState] = useSyncedState<State>("state", {
     question: '',
     spread: 10,
-    cards: null,
+    cards: [],
     timestamp: null,
     selected: null
   });
