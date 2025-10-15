@@ -57,7 +57,8 @@ const Instructions = () => {
                 <AutoLayout 
                   key={ci} 
                   direction="vertical" 
-                  spacing={style.spacing.xLarge}>
+                  spacing={style.spacing.xLarge}
+                  width="fill-parent">
                   {column.map((instruction, i) => {
                     const globalIndex = ci * Math.ceil(INSTRUCTIONS.length / 2) + i;
                     return (

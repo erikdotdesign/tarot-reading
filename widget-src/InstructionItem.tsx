@@ -24,7 +24,8 @@ const InstructionItem = ({
       spacing={style.spacing.medium}>
       <Container 
         strokeWidth={style.strokeWidth.small}
-        padding={style.padding.xSmall}>
+        padding={style.padding.xSmall}
+        width="hug-contents">
         <ContainerHeader 
           strokeWidth={style.strokeWidth.small}
           padding={0}>
@@ -39,11 +40,12 @@ const InstructionItem = ({
       </Container>
       <AutoLayout 
         direction="vertical"
-        spacing={style.spacing.xSmall}>
-        <TextSubHeader>
+        spacing={style.spacing.xSmall}
+        width="fill-parent">
+        <TextSubHeader width="fill-parent">
           {`Step ${index + 1}`}
         </TextSubHeader>
-        <TextBody>
+        <TextBody width="fill-parent">
           { instruction }
         </TextBody>
       </AutoLayout>

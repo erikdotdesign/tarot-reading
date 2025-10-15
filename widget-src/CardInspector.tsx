@@ -56,16 +56,18 @@ const CardInspector = ({
   return (
     cardInfo &&
     <Container
-      name="Board"
-      width={700}
-      height={1400}
-      maxHeight={1400}
-      direction="vertical">
+      name="Card Inspector"
+      width="hug-contents"
+      direction="vertical"
+      height="hug-contents"
+      minWidth={700}
+      maxWidth={700}>
       <ContainerHeader
         width="fill-parent"
         direction="vertical"
         horizontalAlignItems="center"
-        spacing={style.spacing.shmedium}>
+        spacing={style.spacing.shmedium}
+        height="hug-contents">
         <TextSubHeader
           width="fill-parent"
           horizontalAlignText="center"
@@ -86,16 +88,24 @@ const CardInspector = ({
       </ContainerHeader>
       <ContainerBody
         width="fill-parent"
-        height="fill-parent"
+        height="hug-contents"
         direction="vertical"
         horizontalAlignItems="center"
-        spacing={style.spacing.shmedium}>
+        spacing={style.spacing.shmedium}
+        padding={{
+          top: 96,
+          left: style.padding.xLarge,
+          right: style.padding.xLarge,
+          bottom: 96
+        }}>
         <AutoLayout
           width="fill-parent"
           horizontalAlignItems="center"
           padding={{
-            horizontal: 0,
-            vertical: style.padding.large
+            top: style.padding.small,
+            bottom: style.padding.xLarge,
+            left: 0,
+            right: 0
           }}>
           <CardImage
             card={card}
@@ -113,7 +123,11 @@ const CardInspector = ({
         </TextSubHeader>
         <TextBody
           horizontalAlignText="center"
-          width="fill-parent">
+          width="fill-parent"
+          fontSize={style.textStyle.subHeader.fontSize}
+          lineHeight={style.textStyle.subHeader.lineHeight}
+          fill={style.color.text.light}
+          italic={true}>
           { card.description }
         </TextBody>
       </ContainerBody>
