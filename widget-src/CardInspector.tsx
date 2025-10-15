@@ -125,9 +125,9 @@ const CardInspector = ({
           fill={style.color.red}
           spacing={style.spacing.medium}
           padding={72}
-          // stroke={style.color.black}
-          // strokeWidth={style.strokeWidth.large}
-          // strokeAlign="inside"
+          stroke={style.color.black}
+          strokeWidth={style.strokeWidth.large}
+          strokeAlign="inside"
           onClick={async () => {
             await new Promise((resolve) => {
               figma.showUI(__html__, {width: 564, height: 564, themeColors: true});

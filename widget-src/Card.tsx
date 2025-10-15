@@ -23,8 +23,8 @@ const Card = ({
   const isSelected = state.selected ? state.selected.name === card.name : false;
   const number = state.cards.indexOf(card) + 1;
   const handleClick = () => {
-    if (isSelected) return;
-    setState({...state, selected: card});
+    if (isSelected) setState({...state, selected: null});
+    else setState({...state, selected: card});
   }
 
   return (
