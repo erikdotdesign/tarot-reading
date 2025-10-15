@@ -66,13 +66,13 @@ const CardInspector = ({
         horizontalAlignItems="center"
         spacing={style.spacing.shmedium}
         height="hug-contents">
-        <TextHeader
+        <TextSubHeader
           width="fill-parent"
           horizontalAlignText="center"
-          fontSize={style.textStyle.subHeader.fontSize}
-          lineHeight={style.textStyle.subHeader.lineHeight}>
+          textCase="upper"
+          fill={style.color.text.lighter}>
           {`Card ${cardNumber}`}
-        </TextHeader>
+        </TextSubHeader>
         <TextHeader
           horizontalAlignText="center"
           width="fill-parent">
@@ -89,49 +89,67 @@ const CardInspector = ({
         height="hug-contents"
         direction="vertical"
         horizontalAlignItems="center"
-        spacing={style.spacing.shmedium}>
-        <TextHeader
-          width="fill-parent"
-          horizontalAlignText="center"
-          fontSize={style.textStyle.subHeader.fontSize}
-          lineHeight={style.textStyle.subHeader.lineHeight}>
-          {card.type}
-        </TextHeader>
-        <TextHeader
-          horizontalAlignText="center"
-          width="fill-parent">
-          { card.name }
-        </TextHeader>
-        <TextSubHeader
-          horizontalAlignText="center"
-          width="fill-parent">
-          { card.meanings.join(", ") }
-        </TextSubHeader>
+        spacing={style.spacing.large}
+        padding={{
+          horizontal: style.padding.large,
+          vertical: style.padding.large,
+          bottom: style.padding.xLarge
+        }}>
         <AutoLayout
+          direction="vertical"
+          width="fill-parent"
+          height="hug-contents"
+          spacing={style.spacing.shmedium}>
+          <TextSubHeader
+            width="fill-parent"
+            horizontalAlignText="center"
+            textCase="upper"
+            fill={style.color.text.lighter}>
+            {card.type}
+          </TextSubHeader>
+          <TextHeader
+            horizontalAlignText="center"
+            width="fill-parent">
+            { card.name }
+          </TextHeader>
+          <TextSubHeader
+            horizontalAlignText="center"
+            width="fill-parent">
+            { card.meanings.join(", ") }
+          </TextSubHeader>
+        </AutoLayout>
+        <AutoLayout
+          direction="vertical"
           width="fill-parent"
           horizontalAlignItems="center"
-          padding={{
-            horizontal: 0,
-            vertical: style.padding.large
+          fill={style.color.red}
+          spacing={style.spacing.medium}
+          padding={72}
+          // stroke={style.color.black}
+          // strokeWidth={style.strokeWidth.large}
+          // strokeAlign="inside"
+          onClick={async () => {
+            await new Promise((resolve) => {
+              figma.showUI(__html__, {width: 564, height: 564, themeColors: true});
+            })
           }}>
           <CardImage
             card={card}
-            display
-            onClick={async () => {
-              await new Promise((resolve) => {
-                figma.showUI(__html__, {width: 564, height: 564, themeColors: true});
-              })
-            }} />
+            display />
         </AutoLayout> 
-        <TextBody
-          horizontalAlignText="center"
+        <AutoLayout
           width="fill-parent"
-          fontSize={style.textStyle.subHeader.fontSize}
-          lineHeight={style.textStyle.subHeader.lineHeight}
-          fill={style.color.text.light}
-          italic={true}>
-          { card.description }
-        </TextBody>
+          height="hug-contents">
+          <TextBody
+            horizontalAlignText="center"
+            width="fill-parent"
+            fontSize={style.textStyle.subHeader.fontSize}
+            lineHeight={style.textStyle.subHeader.lineHeight}
+            fill={style.color.text.light}
+            italic={true}>
+            { card.description }
+          </TextBody>
+        </AutoLayout>
       </ContainerBody>
     </Container>
   );
