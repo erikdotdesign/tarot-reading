@@ -37,14 +37,12 @@ const SPEAD_INFO = {
     9: ["Hopes and Fears", "The querent's greatest hopes and fears regarding the outcome."],
     10:["The Outcome", "The likely outcome if things continue on their current path."]
   }
-}
+};
 
 const CardInspector = ({
-  state,
-  setState
+  state
 }: {
   state: State;
-  setState: (state: State) => void;
 }) => {
   if (!state.selected) return;
 
@@ -68,13 +66,13 @@ const CardInspector = ({
         horizontalAlignItems="center"
         spacing={style.spacing.shmedium}
         height="hug-contents">
-        <TextSubHeader
+        <TextHeader
           width="fill-parent"
           horizontalAlignText="center"
-          fontFamily={style.fontFamily.header}
-          fontWeight={style.fontWeight.extraBold}>
+          fontSize={style.textStyle.subHeader.fontSize}
+          lineHeight={style.textStyle.subHeader.lineHeight}>
           {`Card ${cardNumber}`}
-        </TextSubHeader>
+        </TextHeader>
         <TextHeader
           horizontalAlignText="center"
           width="fill-parent">
@@ -91,26 +89,14 @@ const CardInspector = ({
         height="hug-contents"
         direction="vertical"
         horizontalAlignItems="center"
-        spacing={style.spacing.shmedium}
-        padding={{
-          top: 96,
-          left: style.padding.xLarge,
-          right: style.padding.xLarge,
-          bottom: 96
-        }}>
-        <AutoLayout
+        spacing={style.spacing.shmedium}>
+        <TextHeader
           width="fill-parent"
-          horizontalAlignItems="center"
-          padding={{
-            top: style.padding.small,
-            bottom: style.padding.xLarge,
-            left: 0,
-            right: 0
-          }}>
-          <CardImage
-            card={card}
-            display />
-        </AutoLayout> 
+          horizontalAlignText="center"
+          fontSize={style.textStyle.subHeader.fontSize}
+          lineHeight={style.textStyle.subHeader.lineHeight}>
+          {card.type}
+        </TextHeader>
         <TextHeader
           horizontalAlignText="center"
           width="fill-parent">
@@ -121,6 +107,22 @@ const CardInspector = ({
           width="fill-parent">
           { card.meanings.join(", ") }
         </TextSubHeader>
+        <AutoLayout
+          width="fill-parent"
+          horizontalAlignItems="center"
+          padding={{
+            horizontal: 0,
+            vertical: style.padding.large
+          }}>
+          <CardImage
+            card={card}
+            display
+            onClick={async () => {
+              await new Promise((resolve) => {
+                figma.showUI(__html__, {width: 564, height: 564, themeColors: true});
+              })
+            }} />
+        </AutoLayout> 
         <TextBody
           horizontalAlignText="center"
           width="fill-parent"

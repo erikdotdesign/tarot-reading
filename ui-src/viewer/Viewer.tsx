@@ -1,6 +1,6 @@
 import { Canvas } from "@react-three/fiber";
+import { Stage } from "@react-three/drei";
 import { TarotCard } from "../../widget-src/types";
-
 import Card from "./Card";
 
 const Viewer = ({ 
@@ -13,16 +13,14 @@ const Viewer = ({
   return (
     <Canvas
       ref={canvasRef}
-      shadows
-      gl={{ preserveDrawingBuffer: true }}
-      camera={{ position: [0, 0, 5], fov: 50 }}>
-      <color attach="background" args={["#f2f2f2"]} />
-      <ambientLight intensity={2} />
-      {
-        card
-        ? <Card card={card} />
-        : null
-      }
+      shadows>
+      <color attach="background" args={['skyblue']} />
+      <Stage 
+        intensity={0}
+        shadows="contact"
+        environment={null}>
+        <Card card={card} />
+      </Stage>
     </Canvas>
   );
 };

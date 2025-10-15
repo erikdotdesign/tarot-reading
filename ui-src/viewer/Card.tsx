@@ -9,7 +9,7 @@ const Card = ({
   height = 1024,
   isFlipped = false 
 }: { 
-  card: TarotCard; 
+  card: TarotCard | null; 
   width?: number;
   height?: number;
   isFlipped?: boolean
@@ -17,6 +17,7 @@ const Card = ({
   const scale = 0.003;
 
   return (
+    card &&
     <CardRotator
       width={width}
       height={height}

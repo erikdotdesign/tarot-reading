@@ -18,13 +18,6 @@ const Widget = () => {
   
   const { drawCards } = useTarotDeck({state, setState});
 
-  const handleCardClick = async (card: TarotCard) => {
-    await new Promise((resolve) => {
-      figma.showUI(__html__, {width: 564, height: 564, themeColors: true});
-      setState({ ...state, selected: card });
-    })
-  }
-
   const handleUIMessages = async (msg: any) => {
     if (msg.type === "ui-open") {
       hydrateUIState();
@@ -47,15 +40,14 @@ const Widget = () => {
 
   return (
     <AutoLayout
-      spacing={style.spacing.xLarge}
+      spacing={style.spacing.large}
       verticalAlignItems="center">
       <Board
         state={state}
         setState={setState}
         drawCards={drawCards} />
       <CardInspector
-        state={state}
-        setState={setState} />
+        state={state} />
     </AutoLayout>
   );
 };

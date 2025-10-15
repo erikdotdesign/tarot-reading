@@ -32,8 +32,7 @@ const Instructions = () => {
         name="Instructions"
         width={816}
         height={816}
-        direction="vertical"
-        padding={style.padding.shmedium}>
+        direction="vertical">
         <ContainerHeader
           width="fill-parent"
           direction="vertical"
