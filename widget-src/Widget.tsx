@@ -1,16 +1,16 @@
-import { State, TarotCard } from "./types";
+import { State } from "./types";
 import style from "./style";
 import useTarotDeck from "./useTarotDeck";
 import Board from "./Board";
 import CardInspector from "./CardInspector";
 
 const { widget } = figma;
-const { AutoLayout, useSyncedState, useEffect, Image, Text, Input, waitForTask } = widget;
+const { AutoLayout, useSyncedState, useEffect } = widget;
 
 const Widget = () => {
   const [state, setState] = useSyncedState<State>("state", {
     question: '',
-    spread: 10,
+    spread: 3,
     cards: [],
     timestamp: null,
     selected: null

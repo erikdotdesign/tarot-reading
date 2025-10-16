@@ -12,7 +12,7 @@ const CardImage = ({
 }: {
   large?: boolean;
   card: TarotCard | "back";
-} & WidgetJSX.WidgetJSXImageProps) => {
+} & Partial<WidgetJSX.WidgetJSXImageProps>) => {
   return (
     <Image
       width={large ? 240 : 120}

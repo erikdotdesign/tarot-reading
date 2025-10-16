@@ -19,7 +19,7 @@ const Card = ({
   setState,
   ...props
 }: {
-  large: boolean;
+  large?: boolean;
   card: TarotCard;
   state: State;
   setState: (state: State) => void;
