@@ -12,7 +12,6 @@ const App = () => {
     const handleMessage = (event: MessageEvent) => {
       const msg = event.data.pluginMessage;
       if (!msg) return;
-      console.log("UI received:", msg);
 
       if (msg.type === "card-info") {
         setCard(msg.payload);
@@ -26,7 +25,7 @@ const App = () => {
   }, []);
   
   return (
-    <main className={`c-app figma-light`}>
+    <main className="c-app">
       <section className="c-app__body">
         <Canvas
           card={card}

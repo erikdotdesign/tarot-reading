@@ -41,7 +41,7 @@ const Widget = () => {
   return (
     <AutoLayout
       spacing={style.spacing.large}
-      verticalAlignItems="start">
+      verticalAlignItems="center">
       <Board
         state={state}
         setState={setState}
