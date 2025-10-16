@@ -5,8 +5,17 @@
     "type": "minor",
     "value": 1,
     "suit": "pentacles",
-    "description": "A hand, issuing from a cloud, holds up a pentacle.",
-    "meanings": ["Perfect contentment", "Felicity", "Ecstasy", "Speedy intelligence", "Gold"]
+    "meanings": ["Prosperity", "Opportunity", "Stability", "Manifestation"],
+    "description": "A hand emerges from a cloud offering a golden pentacle above a lush garden, symbolizing new beginnings in wealth and the promise of material growth."
+  },
+  {
+    "name": "Ace of Pentacles Reversed",
+    "symbol": "🌱⬇️",
+    "type": "minor",
+    "value": 1,
+    "suit": "pentacles",
+    "meanings": ["Lost opportunity", "Instability", "Greed", "Material delay"],
+    "description": "The pentacle slips from the hand, falling toward barren ground, representing missed chances or poor foundations in financial or practical matters."
   },
   {
     "name": "Two of Pentacles",
@@ -14,17 +23,35 @@
     "type": "minor",
     "value": 2,
     "suit": "pentacles",
-    "description": "A young man dances holding a pentacle in each hand, connected by an endless cord.",
-    "meanings": ["Gaiety", "Recreation", "News or messages", "Obstacles", "Agitation", "Trouble", "Embroilment"]
+    "meanings": ["Balance", "Adaptability", "Flow", "Resourcefulness"],
+    "description": "A juggler dances while keeping two pentacles in motion, bound by an infinite loop, symbolizing balance amid life's changing tides."
+  },
+  {
+    "name": "Two of Pentacles Reversed",
+    "symbol": "2️⃣🌱⬇️",
+    "type": "minor",
+    "value": 2,
+    "suit": "pentacles",
+    "meanings": ["Disorganization", "Overwhelm", "Financial stress", "Instability"],
+    "description": "The juggler loses rhythm as the pentacles fall, symbolizing imbalance, poor time management, or struggles to adapt to shifting priorities."
   },
   {
     "name": "Three of Pentacles",
-    "symbol": "🔨🌱",
+    "symbol": "3️⃣🌱",
     "type": "minor",
     "value": 3,
     "suit": "pentacles",
-    "description": "A sculptor at work in a monastery, representing skill and diligence.",
-    "meanings": ["Trade", "Skilled labor", "Nobility", "Aristocracy", "Renown", "Glory"]
+    "meanings": ["Teamwork", "Skill", "Craftsmanship", "Recognition"],
+    "description": "A craftsman presents his work in a cathedral, symbolizing mastery through collaboration, planning, and dedication to quality."
+  },
+  {
+    "name": "Three of Pentacles Reversed",
+    "symbol": "3️⃣🌱⬇️",
+    "type": "minor",
+    "value": 3,
+    "suit": "pentacles",
+    "meanings": ["Conflict", "Poor collaboration", "Mediocrity", "Miscommunication"],
+    "description": "The cathedral plans falter and voices clash, symbolizing disharmony, lack of effort, or unrecognized skill."
   },
   {
     "name": "Four of Pentacles",
@@ -32,8 +59,17 @@
     "type": "minor",
     "value": 4,
     "suit": "pentacles",
-    "description": "A crowned figure clutches a pentacle, holding onto possessions tightly.",
-    "meanings": ["Security of possessions", "Attachment", "Gift", "Legacy", "Inheritance"]
+    "meanings": ["Security", "Possession", "Control", "Boundaries"],
+    "description": "A crowned figure sits holding a pentacle tightly over the heart, symbolizing stability, attachment to wealth, and fear of loss."
+  },
+  {
+    "name": "Four of Pentacles Reversed",
+    "symbol": "4️⃣🌱⬇️",
+    "type": "minor",
+    "value": 4,
+    "suit": "pentacles",
+    "meanings": ["Greed", "Letting go", "Instability", "Financial block"],
+    "description": "The pentacle slips from the figure’s grasp, symbolizing release from control or the collapse of material security."
   },
   {
     "name": "Five of Pentacles",
@@ -41,8 +77,17 @@
     "type": "minor",
     "value": 5,
     "suit": "pentacles",
-    "description": "Two mendicants pass a lighted window in a snowstorm, suggesting hardship.",
-    "meanings": ["Material trouble", "Destitution", "Love issues", "Discord", "Affinities"]
+    "meanings": ["Hardship", "Loss", "Isolation", "Struggle"],
+    "description": "Two figures pass a lit church window in the snow, symbolizing material and emotional hardship, yet also hope nearby if sought."
+  },
+  {
+    "name": "Five of Pentacles Reversed",
+    "symbol": "5️⃣🌱⬇️",
+    "type": "minor",
+    "value": 5,
+    "suit": "pentacles",
+    "meanings": ["Recovery", "Improvement", "Renewed faith", "End of struggle"],
+    "description": "The light from the church beckons the weary inward, symbolizing recovery from loss, renewed faith, and gradual restoration."
   },
   {
     "name": "Six of Pentacles",
@@ -50,8 +95,17 @@
     "type": "minor",
     "value": 6,
     "suit": "pentacles",
-    "description": "A merchant weighs money and distributes it to the needy, symbolizing generosity.",
-    "meanings": ["Gifts", "Presents", "Gratification", "Attention", "Prosperity"]
+    "meanings": ["Generosity", "Charity", "Balance", "Kindness"],
+    "description": "A wealthy man weighs coins and offers them to beggars, symbolizing giving, fairness, and the balance between receiving and providing."
+  },
+  {
+    "name": "Six of Pentacles Reversed",
+    "symbol": "6️⃣🌱⬇️",
+    "type": "minor",
+    "value": 6,
+    "suit": "pentacles",
+    "meanings": ["Debt", "Selfishness", "Strings attached", "Unequal exchange"],
+    "description": "The scales tilt unevenly as one hand takes more than it gives, symbolizing imbalance, greed, or manipulation in generosity."
   },
   {
     "name": "Seven of Pentacles",
@@ -59,8 +113,17 @@
     "type": "minor",
     "value": 7,
     "suit": "pentacles",
-    "description": "A young man leans on his staff, surveying seven pentacles, representing reflection.",
-    "meanings": ["Money", "Business", "Barter", "Altercation", "Innocence", "Ingenuity", "Purgation"]
+    "meanings": ["Patience", "Assessment", "Long-term vision", "Growth"],
+    "description": "A farmer rests on his staff, gazing at growing pentacles, symbolizing reflection on progress, investment, and steady cultivation."
+  },
+  {
+    "name": "Seven of Pentacles Reversed",
+    "symbol": "7️⃣🌱⬇️",
+    "type": "minor",
+    "value": 7,
+    "suit": "pentacles",
+    "meanings": ["Impatience", "Wasted effort", "Discontent", "Delay"],
+    "description": "The farmer grows weary and the fruit droops, symbolizing frustration, poor returns, or short-sighted choices."
   },
   {
     "name": "Eight of Pentacles",
@@ -68,8 +131,17 @@
     "type": "minor",
     "value": 8,
     "suit": "pentacles",
-    "description": "An artist works on stone carvings, representing skill and diligence.",
-    "meanings": ["Work", "Employment", "Craftsmanship", "Skill", "Preparation"]
+    "meanings": ["Work", "Dedication", "Skill", "Mastery"],
+    "description": "An artisan carves pentacles into stone, symbolizing focus, discipline, and learning through repeated effort."
+  },
+  {
+    "name": "Eight of Pentacles Reversed",
+    "symbol": "8️⃣🌱⬇️",
+    "type": "minor",
+    "value": 8,
+    "suit": "pentacles",
+    "meanings": ["Perfectionism", "Lack of focus", "Mediocrity", "Disinterest"],
+    "description": "The artisan’s tools are neglected, symbolizing apathy, shortcuts, or lack of commitment to one’s craft."
   },
   {
     "name": "Nine of Pentacles",
@@ -77,8 +149,17 @@
     "type": "minor",
     "value": 9,
     "suit": "pentacles",
-    "description": "A woman stands in a garden with a bird on her wrist, surrounded by abundance.",
-    "meanings": ["Prudence", "Safety", "Success", "Accomplishment", "Certitude", "Discernment"]
+    "meanings": ["Independence", "Luxury", "Self-sufficiency", "Grace"],
+    "description": "A woman in fine robes stands in her vineyard with a falcon, symbolizing wealth earned through refinement, discipline, and self-reliance."
+  },
+  {
+    "name": "Nine of Pentacles Reversed",
+    "symbol": "9️⃣🌱⬇️",
+    "type": "minor",
+    "value": 9,
+    "suit": "pentacles",
+    "meanings": ["Financial setback", "Dependence", "Overindulgence", "Loss of comfort"],
+    "description": "The falcon flies off as grapes wither, symbolizing instability, poor decisions, or loss of independence."
   },
   {
     "name": "Ten of Pentacles",
@@ -86,17 +167,35 @@
     "type": "minor",
     "value": 10,
     "suit": "pentacles",
-    "description": "A family under an archway with a child and elder, representing legacy and wealth.",
-    "meanings": ["Gain", "Riches", "Family matters", "Archives", "Abode of a family"]
+    "meanings": ["Legacy", "Wealth", "Family", "Tradition"],
+    "description": "A family gathers under an archway filled with symbols of prosperity, representing stability, heritage, and enduring success."
+  },
+  {
+    "name": "Ten of Pentacles Reversed",
+    "symbol": "🔟🌱⬇️",
+    "type": "minor",
+    "value": 10,
+    "suit": "pentacles",
+    "meanings": ["Financial loss", "Family conflict", "Instability", "Change"],
+    "description": "The archway crumbles and coins scatter, symbolizing disrupted security, familial tension, or shifting foundations."
   },
   {
     "name": "Page of Pentacles",
-    "symbol": "📚🌱",
+    "symbol": "📜🌱",
     "type": "minor",
     "value": 11,
     "suit": "pentacles",
-    "description": "A youthful figure examines a floating pentacle, representing study and application.",
-    "meanings": ["Application", "Study", "Scholarship", "Reflection", "News", "Management"]
+    "meanings": ["Learning", "Focus", "Ambition", "New opportunity"],
+    "description": "A youthful figure studies a pentacle in an open field, symbolizing curiosity, diligence, and the early stages of skill-building."
+  },
+  {
+    "name": "Page of Pentacles Reversed",
+    "symbol": "📜🌱⬇️",
+    "type": "minor",
+    "value": 11,
+    "suit": "pentacles",
+    "meanings": ["Laziness", "Procrastination", "Missed chance", "Distraction"],
+    "description": "The student drops the pentacle and looks away, symbolizing neglect of potential or a lack of follow-through."
   },
   {
     "name": "Knight of Pentacles",
@@ -104,8 +203,17 @@
     "type": "minor",
     "value": 12,
     "suit": "pentacles",
-    "description": "Rides a slow, enduring horse, symbolizing responsibility and reliability.",
-    "meanings": ["Utility", "Serviceableness", "Interest", "Responsibility", "Rectitude"]
+    "meanings": ["Responsibility", "Routine", "Persistence", "Reliability"],
+    "description": "A steadfast knight sits on a still horse, symbolizing loyalty, patience, and consistent effort toward tangible goals."
+  },
+  {
+    "name": "Knight of Pentacles Reversed",
+    "symbol": "🐎🌱⬇️",
+    "type": "minor",
+    "value": 12,
+    "suit": "pentacles",
+    "meanings": ["Stagnation", "Laziness", "Monotony", "Resistance to change"],
+    "description": "The knight’s horse stands idle in barren soil, symbolizing stagnation, stubbornness, or dull repetition."
   },
   {
     "name": "Queen of Pentacles",
@@ -113,8 +221,17 @@
     "type": "minor",
     "value": 13,
     "suit": "pentacles",
-    "description": "A woman contemplates her pentacle, embodying generosity, security, and intelligence.",
-    "meanings": ["Opulence", "Generosity", "Magnificence", "Security", "Liberty"]
+    "meanings": ["Nurturing", "Comfort", "Abundance", "Practicality"],
+    "description": "A serene queen gazes at a golden pentacle in a lush garden, symbolizing grounded care, domestic wisdom, and material well-being."
+  },
+  {
+    "name": "Queen of Pentacles Reversed",
+    "symbol": "👸🌱⬇️",
+    "type": "minor",
+    "value": 13,
+    "suit": "pentacles",
+    "meanings": ["Neglect", "Materialism", "Dependence", "Overextension"],
+    "description": "The queen turns from her garden, symbolizing misplaced priorities, financial stress, or emotional detachment."
   },
   {
     "name": "King of Pentacles",
@@ -122,133 +239,16 @@
     "type": "minor",
     "value": 14,
     "suit": "pentacles",
-    "description": "A mature figure seated with symbols of power and wealth, representing mastery in material affairs.",
-    "meanings": ["Valor", "Intelligence", "Business aptitude", "Mathematical gifts", "Success"]
-  },
-  {
-    "name": "Ace of Pentacles Reversed",
-    "symbol": "🔱⬇️",
-    "type": "minor",
-    "value": 1,
-    "suit": "pentacles",
-    "description": "A hand holds a pentacle upside down, indicating challenges in material matters.",
-    "meanings": ["Evil side of wealth", "Bad intelligence", "Comfortable conditions", "Prosperity uncertain"]
-  },
-  {
-    "name": "Two of Pentacles Reversed",
-    "symbol": "2⃣⬇️",
-    "type": "minor",
-    "value": 2,
-    "suit": "pentacles",
-    "description": "A young man dances with pentacles but loses balance, showing stress and chaos.",
-    "meanings": ["Enforced gaiety", "Simulated enjoyment", "Handwriting", "Letters of exchange"]
-  },
-  {
-    "name": "Three of Pentacles Reversed",
-    "symbol": "3⃣⬇️",
-    "type": "minor",
-    "value": 3,
-    "suit": "pentacles",
-    "description": "A sculptor at work reflects mediocrity or lack of skill.",
-    "meanings": ["Mediocrity", "Puerility", "Pettiness", "Weakness"]
-  },
-  {
-    "name": "Four of Pentacles Reversed",
-    "symbol": "4⃣⬇️",
-    "type": "minor",
-    "value": 4,
-    "suit": "pentacles",
-    "description": "A figure releases pentacles, indicating suspense or delay.",
-    "meanings": ["Suspense", "Delay", "Opposition"]
-  },
-  {
-    "name": "Five of Pentacles Reversed",
-    "symbol": "5⃣⬇️",
-    "type": "minor",
-    "value": 5,
-    "suit": "pentacles",
-    "description": "Mendicants in a snowstorm signify disorder reversed.",
-    "meanings": ["Disorder", "Chaos", "Ruin", "Discord", "Profligacy"]
-  },
-  {
-    "name": "Six of Pentacles Reversed",
-    "symbol": "6⃣⬇️",
-    "type": "minor",
-    "value": 6,
-    "suit": "pentacles",
-    "description": "A merchant weighs money unfairly, symbolizing desire, envy, and illusion.",
-    "meanings": ["Desire", "Cupidity", "Envy", "Jealousy", "Illusion"]
-  },
-  {
-    "name": "Seven of Pentacles Reversed",
-    "symbol": "7⬇️",
-    "type": "minor",
-    "value": 7,
-    "suit": "pentacles",
-    "description": "A young man looks at pentacles with anxiety, reflecting financial worry.",
-    "meanings": ["Cause for anxiety regarding money"]
-  },
-  {
-    "name": "Eight of Pentacles Reversed",
-    "symbol": "8⃣⬇️",
-    "type": "minor",
-    "value": 8,
-    "suit": "pentacles",
-    "description": "The artist works with vanity and ambition thwarted.",
-    "meanings": ["Voided ambition", "Vanity", "Cupidity", "Exaction", "Usury", "Cunning"]
-  },
-  {
-    "name": "Nine of Pentacles Reversed",
-    "symbol": "9⃣⬇️",
-    "type": "minor",
-    "value": 9,
-    "suit": "pentacles",
-    "description": "A woman in abundance faces deception and failed projects.",
-    "meanings": ["Roguery", "Deception", "Voided project", "Bad faith"]
-  },
-  {
-    "name": "Ten of Pentacles Reversed",
-    "symbol": "🔟⬇️",
-    "type": "minor",
-    "value": 10,
-    "suit": "pentacles",
-    "description": "A family under an archway experiences chance, loss, or theft.",
-    "meanings": ["Chance", "Fatality", "Loss", "Robbery", "Games of hazard", "Dowry", "Pension"]
-  },
-  {
-    "name": "Page of Pentacles Reversed",
-    "symbol": "📜⬇️",
-    "type": "minor",
-    "value": 11,
-    "suit": "pentacles",
-    "description": "A youthful figure misapplies learning, reflecting prodigality and dissipation.",
-    "meanings": ["Prodigality", "Dissipation", "Liberality", "Luxury", "Unfavorable news"]
-  },
-  {
-    "name": "Knight of Pentacles Reversed",
-    "symbol": "🐎⬇️",
-    "type": "minor",
-    "value": 12,
-    "suit": "pentacles",
-    "description": "A slow horseman reflects inertia, idleness, and stagnation.",
-    "meanings": ["Inertia", "Idleness", "Stagnation", "Placid", "Discouragement", "Carelessness"]
-  },
-  {
-    "name": "Queen of Pentacles Reversed",
-    "symbol": "👸🔄🌱",
-    "type": "minor",
-    "value": 13,
-    "suit": "pentacles",
-    "description": "A queen's qualities are corrupted or mistrusted.",
-    "meanings": ["Evil", "Suspicion", "Suspense", "Fear", "Mistrust"]
+    "meanings": ["Success", "Stability", "Leadership", "Prosperity"],
+    "description": "A regal king sits on a throne adorned with vines and bulls, symbolizing mastery of the material world and secure accomplishment."
   },
   {
     "name": "King of Pentacles Reversed",
-    "symbol": "🤴⬇️",
+    "symbol": "🤴🌱⬇️",
     "type": "minor",
     "value": 14,
     "suit": "pentacles",
-    "description": "A king's power in material matters reflects vice and corruption.",
-    "meanings": ["Vice", "Weakness", "Ugliness", "Perversity", "Corruption", "Peril"]
+    "meanings": ["Corruption", "Greed", "Control", "Mismanagement"],
+    "description": "The throne darkens and coins tarnish, symbolizing misuse of power, stubbornness, or financial overreach."
   }
 ]

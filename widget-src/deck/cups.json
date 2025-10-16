@@ -2,8 +2,8 @@
   {
     "name": "Ace of Cups",
     "symbol": "🏆",
-    "meanings": ["House of the true heart", "Joy", "Content", "Abode", "Nourishment", "Abundance", "Fertility", "Felicity"],
-    "description": "The waters are beneath, and thereon are water-lilies; the hand issues from the cloud, holding in its palm the cup, from which four streams are pouring; a dove, bearing in its bill a cross-marked Host, descends to place the Wafer in the Cup; the dew of water is falling on all sides.",
+    "meanings": ["Emotional renewal", "Love", "Spiritual awakening", "Compassion", "Abundance"],
+    "description": "A divine hand emerges from a cloud, offering a chalice overflowing with five streams of water. Beneath, lilies float on a tranquil pool. The dove descending symbolizes divine love and spiritual grace overflowing into emotional fulfillment.",
     "type": "minor",
     "value": 1,
     "suit": "cups"
@@ -11,8 +11,8 @@
   {
     "name": "Two of Cups",
     "symbol": "2️⃣🍷",
-    "meanings": ["Love", "Passion", "Friendship", "Affinity", "Union", "Concord", "Sympathy", "Interrelation of the sexes", "Sanctified desire"],
-    "description": "A youth and maiden are pledging one another, and above their cups rises the Caduceus of Hermes, between the wings of which there appears a lion's head.",
+    "meanings": ["Partnership", "Union", "Mutual attraction", "Balance", "Harmony"],
+    "description": "A young man and woman exchange cups beneath the caduceus of Hermes crowned by a lion’s head, representing passionate yet balanced union. The card depicts the harmony of two souls connecting in love or mutual respect.",
     "type": "minor",
     "value": 2,
     "suit": "cups"
@@ -20,8 +20,8 @@
   {
     "name": "Three of Cups",
     "symbol": "🍷🍷🍷",
-    "meanings": ["Conclusion of a matter in plenty", "Perfection and merriment", "Victory", "Fulfilment", "Solace", "Healing"],
-    "description": "Maidens in a garden-ground with cups uplifted, as if pledging one another.",
+    "meanings": ["Celebration", "Community", "Friendship", "Creativity", "Joy"],
+    "description": "Three maidens dance in a circle, raising their cups high amid fruit and flowers. The imagery speaks of emotional abundance, sisterhood, and the joy of shared success and connection.",
     "type": "minor",
     "value": 3,
     "suit": "cups"
@@ -29,8 +29,8 @@
   {
     "name": "Four of Cups",
     "symbol": "🍷🍷🍷🍷",
-    "meanings": ["Weariness", "Disgust", "Aversion", "Imaginary vexations", "Satiety", "Unnoticed gifts", "Discontent", "Blended pleasure"],
-    "description": "A young man is seated under a tree and contemplates three cups set on the grass before him; an arm issuing from a cloud offers him another cup.",
+    "meanings": ["Apathy", "Discontent", "Contemplation", "Missed opportunities", "Withdrawal"],
+    "description": "A man sits under a tree, gazing at three cups before him while a fourth is offered from a cloud. His crossed arms and downcast expression suggest boredom and emotional stagnation, yet unseen blessings hover within reach.",
     "type": "minor",
     "value": 4,
     "suit": "cups"
@@ -38,8 +38,8 @@
   {
     "name": "Five of Cups",
     "symbol": "5️⃣🍷",
-    "meanings": ["Loss", "Regret", "Disappointment", "Inheritance", "Transmission", "Marriage potential", "Bitterness or frustration"],
-    "description": "A dark, cloaked figure, looking sideways at three prone cups; two others stand upright behind him; a bridge leads to a small keep.",
+    "meanings": ["Loss", "Grief", "Regret", "Disappointment", "Emotional recovery"],
+    "description": "A cloaked figure mourns over three spilled cups while two remain upright behind him. The river and bridge in the distance symbolize the potential to move past sorrow toward renewal, if only he turns to see it.",
     "type": "minor",
     "value": 5,
     "suit": "cups"
@@ -47,8 +47,8 @@
   {
     "name": "Six of Cups",
     "symbol": "6️⃣🏆",
-    "meanings": ["Past memories", "Looking back", "Childhood happiness", "Enjoyment", "Vanished experiences", "New relations", "New knowledge", "New environment"],
-    "description": "Children in an old garden, their cups filled with flowers.",
+    "meanings": ["Nostalgia", "Childhood memories", "Innocence", "Reunion", "Kindness"],
+    "description": "Two children exchange flower-filled cups in a sunlit courtyard. The scene evokes innocence, simple joy, and the comforting pull of the past. It invites reflection on heartfelt memories and acts of giving.",
     "type": "minor",
     "value": 6,
     "suit": "cups"
@@ -56,8 +56,8 @@
   {
     "name": "Seven of Cups",
     "symbol": "7️⃣🍷",
-    "meanings": ["Fairy favours", "Reflection", "Sentiment", "Imagination", "Attainment", "Illusion", "Nothing substantial"],
-    "description": "Strange chalices of vision, emphasizing the fantastic spirit.",
+    "meanings": ["Illusion", "Temptation", "Fantasy", "Choices", "Dreams"],
+    "description": "A silhouetted figure faces seven floating cups filled with fantastical visions—jewels, serpents, castles, and more. The imagery reflects imagination and possibility but warns against confusion and wishful thinking.",
     "type": "minor",
     "value": 7,
     "suit": "cups"
@@ -65,8 +65,8 @@
   {
     "name": "Eight of Cups",
     "symbol": "8️⃣🍷",
-    "meanings": ["Decline of a matter", "Departure", "Disillusion", "Mildness", "Timidity", "Honour", "Modesty", "Minor importance of a matter"],
-    "description": "A man of dejected aspect is deserting the cups of his felicity, enterprise, or previous concern.",
+    "meanings": ["Letting go", "Withdrawal", "Transition", "Seeking truth", "Emotional fatigue"],
+    "description": "A traveler leaves behind eight neatly stacked cups under the moon’s light. The barren landscape and his journey upward symbolize turning away from comfort to seek deeper meaning and emotional clarity.",
     "type": "minor",
     "value": 8,
     "suit": "cups"
@@ -74,8 +74,8 @@
   {
     "name": "Nine of Cups",
     "symbol": "9️⃣🍷",
-    "meanings": ["Concord", "Contentment", "Physical well-being", "Victory", "Success", "Advantage", "Satisfaction"],
-    "description": "A person has feasted to his heart's content, with abundant wine behind him; indicating material satisfaction and future assurance.",
+    "meanings": ["Contentment", "Satisfaction", "Gratitude", "Luxury", "Achievement"],
+    "description": "A well-dressed man sits proudly before nine golden cups arranged like trophies. The scene exudes emotional fulfillment and material comfort—known as the 'wish card,' it signifies earned joy and self-satisfaction.",
     "type": "minor",
     "value": 9,
     "suit": "cups"
@@ -83,8 +83,8 @@
   {
     "name": "Ten of Cups",
     "symbol": "🔟🍷",
-    "meanings": ["Contentment", "Perfection of heart", "Perfect love and friendship", "Home and community"],
-    "description": "Cups appear in a rainbow, contemplated by a husband and wife with children dancing nearby.",
+    "meanings": ["Harmony", "Love", "Peace", "Family bliss", "Emotional fulfillment"],
+    "description": "A couple stands arm in arm as children play beneath a radiant rainbow of cups. The idyllic landscape symbolizes unity, emotional security, and lasting happiness in relationships and community.",
     "type": "minor",
     "value": 10,
     "suit": "cups"
@@ -92,8 +92,8 @@
   {
     "name": "Page of Cups",
     "symbol": "👦🏽🍷",
-    "meanings": ["Fair young man", "Service", "Connection to Querent", "Studious youth", "News", "Message", "Application", "Reflection", "Meditation"],
-    "description": "A fair page contemplates a fish rising from a cup; pictures of the mind taking form.",
+    "meanings": ["Curiosity", "Creativity", "Emotional openness", "Messages", "Inspiration"],
+    "description": "A youthful figure gazes with surprise at a fish emerging from his cup. The playful scene represents intuition, imagination, and the arrival of emotional or artistic insight.",
     "type": "minor",
     "value": 11,
     "suit": "cups"
@@ -101,8 +101,8 @@
   {
     "name": "Knight of Cups",
     "symbol": "🏇🏽🍷",
-    "meanings": ["Arrival", "Messenger", "Proposition", "Demeanour", "Invitation", "Incitement"],
-    "description": "Graceful, quiet rider, wearing a winged helmet; a dreamer influenced by imagination.",
+    "meanings": ["Romance", "Charm", "Idealism", "Imagination", "Invitation"],
+    "description": "A knight rides a white horse, holding a golden cup aloft as if offering love or peace. His slow, deliberate pace embodies emotional depth, sensitivity, and the pursuit of beauty or connection.",
     "type": "minor",
     "value": 12,
     "suit": "cups"
@@ -110,8 +110,8 @@
   {
     "name": "Queen of Cups",
     "symbol": "👸🏽🍷",
-    "meanings": ["Goodness", "Fair and honest woman", "Devotion", "Vision", "Success", "Happiness", "Wisdom", "Virtue"],
-    "description": "Beautiful, fair, dreamy; sees visions in a cup but also acts on them.",
+    "meanings": ["Compassion", "Intuition", "Empathy", "Calm", "Spiritual depth"],
+    "description": "A serene queen gazes into a lidded cup engraved with angels, seated by the sea. She represents inner reflection, emotional wisdom, and deep intuitive understanding of the heart.",
     "type": "minor",
     "value": 13,
     "suit": "cups"
@@ -119,8 +119,8 @@
   {
     "name": "King of Cups",
     "symbol": "🤴🍷",
-    "meanings": ["Fair man", "Business", "Law", "Responsibility", "Equity", "Art and science", "Creative intelligence"],
-    "description": "Holds a sceptre and cup; throne on the sea with ship and dolphin; represents the water sign.",
+    "meanings": ["Emotional balance", "Wisdom", "Compassionate authority", "Diplomacy", "Control"],
+    "description": "The king sits upon a stone throne floating on turbulent waters, holding a cup and scepter. Despite the motion around him, he remains calm—symbolizing mastery over emotions and steady leadership.",
     "type": "minor",
     "value": 14,
     "suit": "cups"
@@ -128,8 +128,8 @@
   {
     "name": "Ace of Cups Reversed",
     "symbol": "🏆⬇️",
-    "meanings": ["False heart", "Mutation", "Instability", "Revolution"],
-    "description": "The waters are beneath, and thereon are water-lilies; the hand issues from the cloud holding the cup from which four streams pour.",
+    "meanings": ["Emotional block", "Repression", "Heartache", "Spiritual emptiness", "Loss of faith"],
+    "description": "The overflowing cup now spills its waters downward, symbolizing emotional drain or love withheld. The imagery warns of blocked feelings or unexpressed affection needing release.",
     "type": "minor",
     "value": 1,
     "suit": "cups"
@@ -137,8 +137,8 @@
   {
     "name": "Two of Cups Reversed",
     "symbol": "2️⃣🍷⬇️",
-    "meanings": ["Lust", "Cupidity", "Jealousy", "Wish", "Desire", "Unnatural desire"],
-    "description": "A youth and maiden are pledging one another; Caduceus of Hermes above their cups.",
+    "meanings": ["Disharmony", "Breakup", "Misunderstanding", "Imbalance", "Separation"],
+    "description": "The united pair now drift apart, their cups overturned. The reversed caduceus symbolizes conflict and disconnection between hearts once aligned.",
     "type": "minor",
     "value": 2,
     "suit": "cups"
@@ -146,17 +146,17 @@
   {
     "name": "Three of Cups Reversed",
     "symbol": "3️⃣🍷⬇️",
-    "meanings": ["Expedition", "Dispatch", "Achievement", "Excess in pleasure", "Sensual indulgence"],
-    "description": "Maidens in a garden-ground with cups uplifted, as if pledging one another.",
+    "meanings": ["Overindulgence", "Gossip", "Third-party conflicts", "Isolation", "Excess"],
+    "description": "The joyful trio’s celebration tips into excess. Cups spill as indulgence or rivalry replaces harmony, reflecting emotional imbalance in social or romantic circles.",
     "type": "minor",
     "value": 3,
     "suit": "cups"
   },
   {
     "name": "Four of Cups Reversed",
-    "symbol": "4️⃣🔄",
-    "meanings": ["Novelty", "Presage", "New instruction", "New relations"],
-    "description": "A young man seated under a tree contemplates three cups; a fourth is offered from a cloud.",
+    "symbol": "4️⃣🍷⬇️",
+    "meanings": ["Renewed interest", "Emotional awakening", "New opportunities", "Acceptance"],
+    "description": "The figure stirs from apathy, finally noticing the cup once ignored. The reversed image speaks of re-engagement with life and openness to new emotional experiences.",
     "type": "minor",
     "value": 4,
     "suit": "cups"
@@ -164,26 +164,26 @@
   {
     "name": "Five of Cups Reversed",
     "symbol": "5️⃣🍷⬇️",
-    "meanings": ["News", "Alliances", "Affinity", "Consanguinity", "Ancestry", "Return", "False projects"],
-    "description": "A dark figure with cups; background bridge and keep; reversed indicates positive connections and returns.",
+    "meanings": ["Forgiveness", "Recovery", "Moving on", "Renewal", "Reconciliation"],
+    "description": "The cloaked figure turns toward the two standing cups, recognizing hope beyond loss. The reversed card symbolizes healing, renewed optimism, and reconnection.",
     "type": "minor",
     "value": 5,
     "suit": "cups"
   },
-    {
+  {
     "name": "Six of Cups Reversed",
-    "symbol": "6️⃣⬇️",
-    "meanings": ["The future", "Renewal", "Upcoming events"],
-    "description": "Children in an old garden, their cups filled with flowers; reversed indicates moving forward from the past or letting go of nostalgia.",
+    "symbol": "6️⃣🍷⬇️",
+    "meanings": ["Letting go of the past", "Growing up", "New experiences", "Independence"],
+    "description": "The children’s exchange of flowers fades, reminding us to release nostalgia and face the present. The reversal signals emotional maturity and readiness for change.",
     "type": "minor",
     "value": 6,
     "suit": "cups"
   },
   {
     "name": "Seven of Cups Reversed",
-    "symbol": "7️⃣⬇️",
-    "meanings": ["Desire", "Will", "Determination", "Focus", "Practicality"],
-    "description": "Strange chalices of vision; reversed indicates clarity, avoiding illusion, and practical choices.",
+    "symbol": "7️⃣🍷⬇️",
+    "meanings": ["Clarity", "Focus", "Realism", "Commitment", "Decisiveness"],
+    "description": "The swirling visions vanish, leaving clear choices. The reversed card represents grounded decision-making and cutting through illusion to see what truly matters.",
     "type": "minor",
     "value": 7,
     "suit": "cups"
@@ -191,62 +191,62 @@
   {
     "name": "Eight of Cups Reversed",
     "symbol": "8️⃣🍷⬇️",
-    "meanings": ["Joy", "Happiness", "Feasting", "Renewed enthusiasm"],
-    "description": "A man leaving cups; reversed suggests returning to pleasure, revisiting a matter, or renewed engagement.",
+    "meanings": ["Avoidance", "Fear of change", "Returning to the past", "Lingering attachment"],
+    "description": "The wanderer hesitates or retraces his steps, reluctant to move forward. This reversal warns against staying in unfulfilling situations out of fear or nostalgia.",
     "type": "minor",
     "value": 8,
     "suit": "cups"
   },
   {
     "name": "Nine of Cups Reversed",
-    "symbol": "9️⃣⬇️",
-    "meanings": ["Truth", "Loyalty", "Liberty", "Imperfections", "Misalignment"],
-    "description": "A well-fed figure; reversed signals caution, overindulgence, or challenges to contentment.",
+    "symbol": "9️⃣🍷⬇️",
+    "meanings": ["Greed", "Dissatisfaction", "Complacency", "Superficial pleasure", "Unfulfilled desire"],
+    "description": "The proud man’s cups topple, revealing hollow contentment. The reversal cautions against smugness or indulgence that masks deeper emotional emptiness.",
     "type": "minor",
     "value": 9,
     "suit": "cups"
   },
   {
     "name": "Ten of Cups Reversed",
-    "symbol": "🔟🔄",
-    "meanings": ["False contentment", "Indignation", "Conflict", "Broken harmony"],
-    "description": "Cups in a rainbow; reversed indicates domestic or relational disharmony, disrupted joy, or unrealistic expectations.",
+    "symbol": "🔟🍷⬇️",
+    "meanings": ["Broken harmony", "Family conflict", "Disconnection", "Misaligned values", "False ideals"],
+    "description": "The rainbow of unity dims and inverts, symbolizing emotional rifts or unrealistic expectations. The card warns of strained relationships and the need for honest reconnection.",
     "type": "minor",
     "value": 10,
     "suit": "cups"
   },
   {
     "name": "Page of Cups Reversed",
-    "symbol": "👦🏻⬇️",
-    "meanings": ["Taste", "Inclination", "Attachment", "Seduction", "Deception", "Artifice"],
-    "description": "A fair page contemplates a fish; reversed signals immaturity, deceit, or misplaced trust.",
+    "symbol": "👦🏽🍷⬇️",
+    "meanings": ["Emotional immaturity", "Naivety", "Creative block", "Deception", "Insecurity"],
+    "description": "The fish slips back into the cup, and the Page looks away. The reversal points to emotional immaturity, broken trust, or repressed creative intuition.",
     "type": "minor",
     "value": 11,
     "suit": "cups"
   },
   {
     "name": "Knight of Cups Reversed",
-    "symbol": "🏇⬇️",
-    "meanings": ["Trickery", "Artifice", "Subtlety", "Swindling", "Duplicity", "Fraud"],
-    "description": "Graceful rider; reversed warns of deception, false promises, or manipulation.",
+    "symbol": "🏇🏽🍷⬇️",
+    "meanings": ["Deception", "Moodiness", "Unrealistic ideals", "Disappointment", "Manipulation"],
+    "description": "The romantic knight’s charm becomes fickle and insincere. His cup spills as dreams give way to disillusionment or emotional inconsistency.",
     "type": "minor",
     "value": 12,
     "suit": "cups"
   },
   {
     "name": "Queen of Cups Reversed",
-    "symbol": "👸🔄",
-    "meanings": ["Distrust", "Perverse tendencies", "Dishonour", "Depravity", "Manipulation"],
-    "description": "Beautiful, dreamy queen; reversed suggests emotional imbalance, manipulation, or misplaced trust.",
+    "symbol": "👸🏽🍷⬇️",
+    "meanings": ["Emotional instability", "Codependency", "Manipulation", "Over-sensitivity", "Withdrawal"],
+    "description": "The Queen’s reflective cup is clouded. Her nurturing energy turns inward or distorted, signaling insecurity, emotional overwhelm, or dependence on others’ approval.",
     "type": "minor",
     "value": 13,
     "suit": "cups"
   },
   {
     "name": "King of Cups Reversed",
-    "symbol": "🤴⬇️",
-    "meanings": ["Dishonesty", "Double-dealing", "Exaction", "Injustice", "Vice", "Scandal", "Loss"],
-    "description": "King holding sceptre and cup; reversed indicates misuse of authority, manipulation, or unethical conduct.",
+    "symbol": "🤴🍷⬇️",
+    "meanings": ["Emotional manipulation", "Coldness", "Addiction", "Corruption", "Unbalanced authority"],
+    "description": "The King’s steady throne rocks amid stormy seas. His calm facade hides volatility or emotional control used for self-interest rather than compassion.",
     "type": "minor",
     "value": 14,
     "suit": "cups"

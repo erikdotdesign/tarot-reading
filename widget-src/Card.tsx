@@ -4,7 +4,7 @@ import style from "./style";
 import CardImage from "./CardImage";
 
 const { widget } = figma;
-const { AutoLayout, Image, Text } = widget;
+const { AutoLayout, Text } = widget;
 
 export const CARD_WIDTH = 144;
 export const CARD_HEIGHT = 224;

@@ -1,195 +1,117 @@
 [
   {
     "name": "Ace of Swords",
-    "symbol": "🗡️",
-    "meanings": [
-      "Triumph",
-      "Conquest",
-      "Powerful beginnings",
-      "Clarity of mind",
-      "Victory through intellect"
-    ],
-    "description": "A hand issues from a cloud, grasping a sword encircled by a crown.",
+    "symbol": "⚔️",
+    "meanings": ["Clarity", "Truth", "Breakthrough", "New ideas"],
+    "description": "A single sword rises from a cloud, crowned with victory laurels. It cuts through mist, symbolizing mental clarity, truth, and decisive insight.",
     "type": "minor",
     "value": 1,
     "suit": "swords"
   },
   {
     "name": "Two of Swords",
-    "symbol": "⚔️",
-    "meanings": [
-      "Balance and equilibrium",
-      "Conformity",
-      "Difficult choices",
-      "Harmony despite conflict",
-      "Temporary stalemate"
-    ],
-    "description": "A hoodwinked female figure balances two swords across her shoulders.",
+    "symbol": "⚔️⚔️",
+    "meanings": ["Indecision", "Balance", "Stalemate", "Inner conflict"],
+    "description": "A blindfolded figure holds crossed swords under the moon, representing blocked emotions and the need to choose with both mind and heart.",
     "type": "minor",
     "value": 2,
     "suit": "swords"
   },
   {
     "name": "Three of Swords",
-    "symbol": "🗡️🗡️🗡️",
-    "meanings": [
-      "Heartbreak",
-      "Separation",
-      "Conflict",
-      "Sorrow and grief",
-      "Emotional pain"
-    ],
-    "description": "Three swords pierce a heart, with clouds and rain in the background.",
+    "symbol": "❤️⚔️⚔️⚔️",
+    "meanings": ["Heartbreak", "Pain", "Loss", "Separation"],
+    "description": "Three swords pierce a red heart beneath storm clouds, symbolizing sorrow, emotional release, and the pain that brings clarity.",
     "type": "minor",
     "value": 3,
     "suit": "swords"
   },
   {
     "name": "Four of Swords",
-    "symbol": "🗡️🗡️🗡️🗡️",
-    "meanings": [
-      "Rest and recuperation",
-      "Solitude",
-      "Reflection",
-      "Retreat",
-      "Preparation for action"
-    ],
-    "description": "The effigy of a knight lies in prayer upon his tomb.",
+    "symbol": "⚔️⚔️⚔️⚔️",
+    "meanings": ["Rest", "Recovery", "Contemplation", "Healing"],
+    "description": "A knight lies in stillness beneath a stained-glass window with swords above, symbolizing rest after struggle and renewal of thought.",
     "type": "minor",
     "value": 4,
     "suit": "swords"
   },
   {
     "name": "Five of Swords",
-    "symbol": "🗡️5️⃣",
-    "meanings": [
-      "Conflict",
-      "Defeat and humiliation",
-      "Loss through strife",
-      "Dishonor",
-      "Victories with consequences"
-    ],
-    "description": "A disdainful man surveys two retreating figures. He holds three swords, having conquered the field.",
+    "symbol": "⚔️⚔️⚔️⚔️⚔️",
+    "meanings": ["Conflict", "Defeat", "Tension", "Dishonor"],
+    "description": "A smirking figure gathers swords while others walk away. The sky darkens, symbolizing hollow victory and the cost of selfish ambition.",
     "type": "minor",
     "value": 5,
     "suit": "swords"
   },
   {
     "name": "Six of Swords",
-    "symbol": "6⚔️",
-    "meanings": [
-      "Journey",
-      "Transition",
-      "Travel over water",
-      "Recovery and progress",
-      "Guided passage"
-    ],
-    "description": "A ferryman carries passengers across a calm river toward a distant shore.",
+    "symbol": "🛶⚔️⚔️⚔️⚔️⚔️⚔️",
+    "meanings": ["Transition", "Journey", "Moving on", "Healing"],
+    "description": "A boat glides across calm waters with swords set before the passengers, symbolizing mental passage from turmoil to peace.",
     "type": "minor",
     "value": 6,
     "suit": "swords"
   },
   {
     "name": "Seven of Swords",
-    "symbol": "7⚔️",
-    "meanings": [
-      "Strategy",
-      "Cunning and planning",
-      "Stealth or secrecy",
-      "Risk of failure",
-      "Clever maneuvering"
-    ],
-    "description": "A man carries five swords while two remain in the ground; a camp lies nearby.",
+    "symbol": "⚔️x7",
+    "meanings": ["Deception", "Strategy", "Secrecy", "Cunning"],
+    "description": "A figure sneaks from a camp with five swords in hand, looking back warily. It speaks of stealth, trickery, or clever planning.",
     "type": "minor",
     "value": 7,
     "suit": "swords"
   },
   {
     "name": "Eight of Swords",
-    "symbol": "8⚔️",
-    "meanings": [
-      "Restriction",
-      "Imprisonment",
-      "Feeling trapped",
-      "Obstacles",
-      "Temporary limitations"
-    ],
-    "description": "A bound and blindfolded woman is surrounded by swords, representing temporary restraint.",
+    "symbol": "⚔️x8",
+    "meanings": ["Restriction", "Fear", "Confusion", "Entrapment"],
+    "description": "A blindfolded woman stands bound among eight swords. Though trapped, her bindings are loose — freedom lies in shifting perception.",
     "type": "minor",
     "value": 8,
     "suit": "swords"
   },
   {
     "name": "Nine of Swords",
-    "symbol": "🗡️9️⃣",
-    "meanings": [
-      "Anxiety",
-      "Despair",
-      "Nightmares",
-      "Worry",
-      "Guilt or remorse"
-    ],
-    "description": "A woman sits in lamentation with nine swords hanging above, embodying deep sorrow.",
+    "symbol": "⚔️x9",
+    "meanings": ["Anxiety", "Nightmares", "Guilt", "Despair"],
+    "description": "A figure sits upright in bed beneath nine hanging swords, head in hands, symbolizing worry, sleeplessness, and mental torment.",
     "type": "minor",
     "value": 9,
     "suit": "swords"
   },
   {
     "name": "Ten of Swords",
-    "symbol": "🗡️x10",
-    "meanings": [
-      "Endings",
-      "Ruin or betrayal",
-      "Painful conclusions",
-      "Defeat",
-      "Crisis or collapse"
-    ],
-    "description": "A figure lies prostrate, pierced by ten swords.",
+    "symbol": "⚔️x10",
+    "meanings": ["Ruin", "Endings", "Release", "Betrayal"],
+    "description": "A fallen figure lies pierced by ten swords beneath a dawn sky, symbolizing painful endings that give rise to new beginnings.",
     "type": "minor",
     "value": 10,
     "suit": "swords"
   },
   {
     "name": "Page of Swords",
-    "symbol": "🗡️📚",
-    "meanings": [
-      "Curiosity",
-      "Vigilance",
-      "Observation",
-      "Youthful energy",
-      "Eagerness to learn"
-    ],
-    "description": "A lithe figure holds a sword upright while moving quickly, alert to surroundings.",
+    "symbol": "🧒⚔️",
+    "meanings": ["Curiosity", "Alertness", "New ideas", "Vigilance"],
+    "description": "A youthful figure stands poised with a sword in the wind, eyes sharp, symbolizing intellect, communication, and fresh thinking.",
     "type": "minor",
     "value": 11,
     "suit": "swords"
   },
   {
     "name": "Knight of Swords",
-    "symbol": "🗡️🏇",
-    "meanings": [
-      "Action",
-      "Ambition",
-      "Decisiveness",
-      "Swift change",
-      "Forceful energy"
-    ],
-    "description": "A knight rides swiftly, sword raised, ready to scatter his enemies.",
+    "symbol": "🏇⚔️",
+    "meanings": ["Action", "Ambition", "Drive", "Impulsiveness"],
+    "description": "A knight charges forward beneath stormy clouds, sword raised high, symbolizing determination, haste, and fearless pursuit.",
     "type": "minor",
     "value": 12,
     "suit": "swords"
   },
   {
     "name": "Queen of Swords",
-    "symbol": "👸⚔️",
-    "meanings": [
-      "Independence",
-      "Perceptiveness",
-      "Sorrow tempered by wisdom",
-      "Clear judgment",
-      "Emotional resilience"
-    ],
-    "description": "The Queen holds her sword upright, extending her other hand; her countenance reflects experience with sorrow.",
+    "symbol": "👑⚔️",
+    "meanings": ["Independence", "Clarity", "Intellect", "Truth"],
+    "description": "A regal woman sits on a high throne, sword upright, face keen and honest. She symbolizes discernment, reason, and direct truth.",
     "type": "minor",
     "value": 13,
     "suit": "swords"
@@ -197,208 +119,125 @@
   {
     "name": "King of Swords",
     "symbol": "🤴⚔️",
-    "meanings": [
-      "Authority",
-      "Intellect",
-      "Discipline",
-      "Power through knowledge",
-      "Justice and law"
-    ],
-    "description": "The King sits in judgment, holding his unsheathed sword, symbolizing measured authority and decisive intellect.",
+    "meanings": ["Authority", "Logic", "Integrity", "Discipline"],
+    "description": "A king sits with a balanced sword and calm gaze, symbolizing wisdom, justice, and mastery of the intellect.",
     "type": "minor",
     "value": 14,
     "suit": "swords"
   },
   {
     "name": "Ace of Swords Reversed",
-    "symbol": "🗡️⬇️",
-    "meanings": [
-      "Confusion",
-      "Disorder",
-      "Blocked clarity",
-      "Failed plans",
-      "Mental tension"
-    ],
-    "description": "A hand issues from a cloud, grasping a sword encircled by a crown.",
+    "symbol": "⚔️⬇️",
+    "meanings": ["Confusion", "Miscommunication", "Clouded judgment", "Blocked ideas"],
+    "description": "The sword droops from its crown, shrouded in fog, symbolizing lost clarity and truth obscured by doubt or fear.",
     "type": "minor",
     "value": 1,
     "suit": "swords"
   },
   {
     "name": "Two of Swords Reversed",
-    "symbol": "⚔️⬇️",
-    "meanings": [
-      "Deception",
-      "Imbalance",
-      "Indecision",
-      "Disloyalty",
-      "Disharmony"
-    ],
-    "description": "A hoodwinked female figure balances two swords across her shoulders.",
+    "symbol": "⚔️⚔️⬇️",
+    "meanings": ["Decision made", "Emotional release", "Clarity", "Disharmony"],
+    "description": "The blindfold falls, the crossed swords lower, symbolizing a choice forced into light and balance disrupted or restored.",
     "type": "minor",
     "value": 2,
     "suit": "swords"
   },
   {
     "name": "Three of Swords Reversed",
-    "symbol": "3⚔️⬇️",
-    "meanings": [
-      "Recovery from heartbreak",
-      "Release of sorrow",
-      "Forgiveness",
-      "Resolution of conflict",
-      "Emotional healing"
-    ],
-    "description": "Three swords pierce a heart, with clouds and rain in the background.",
+    "symbol": "❤️⚔️⬇️",
+    "meanings": ["Healing", "Forgiveness", "Reconciliation", "Acceptance"],
+    "description": "The swords slip from the heart, rain clearing, symbolizing emotional release and the mending of old wounds.",
     "type": "minor",
     "value": 3,
     "suit": "swords"
   },
   {
     "name": "Four of Swords Reversed",
-    "symbol": "⚔️⬇️",
-    "meanings": [
-      "Restlessness",
-      "Neglect of self-care",
-      "Overwork",
-      "Premature action",
-      "Ill-preparedness"
-    ],
-    "description": "The effigy of a knight lies in prayer upon his tomb.",
+    "symbol": "⚔️⚔️⚔️⚔️⬇️",
+    "meanings": ["Restlessness", "Burnout", "Recovery delay", "Overthinking"],
+    "description": "The resting figure stirs uneasily beneath suspended swords, symbolizing exhaustion or a refusal to pause and heal.",
     "type": "minor",
     "value": 4,
     "suit": "swords"
   },
   {
     "name": "Five of Swords Reversed",
-    "symbol": "5⚔️⬇️",
-    "meanings": [
-      "Reconciliation",
-      "Letting go of conflict",
-      "Burial of past quarrels",
-      "Resolution"
-    ],
-    "description": "A disdainful man surveys retreating figures; the reversed card suggests resolution and release.",
+    "symbol": "⚔️⚔️⚔️⚔️⚔️⬇️",
+    "meanings": ["Resolution", "Compromise", "Regret", "Forgiveness"],
+    "description": "The victor lowers their weapons, the sky brightens, symbolizing release from conflict and the humility to make peace.",
     "type": "minor",
     "value": 5,
     "suit": "swords"
   },
   {
     "name": "Six of Swords Reversed",
-    "symbol": "6⚔️⬇️",
-    "meanings": [
-      "Obstacles to progress",
-      "Delay in journey",
-      "Unresolved transition",
-      "Lack of guidance",
-      "Emotional stagnation"
-    ],
-    "description": "A ferryman carries passengers across a calm river toward a distant shore.",
+    "symbol": "🛶⚔️⬇️",
+    "meanings": ["Resistance", "Stagnation", "Return", "Emotional baggage"],
+    "description": "The boat struggles against the current, symbolizing difficulty leaving behind pain or transition delayed.",
     "type": "minor",
     "value": 6,
     "suit": "swords"
   },
   {
     "name": "Seven of Swords Reversed",
-    "symbol": "7⚔️⬇️",
-    "meanings": [
-      "Exposure of secrets",
-      "Advice and counsel",
-      "Caught in dishonesty",
-      "Transparency",
-      "Truth revealed"
-    ],
-    "description": "A man carrying swords; reversal indicates discovery or correction of deceit.",
+    "symbol": "⚔️x7⬇️",
+    "meanings": ["Exposure", "Truth revealed", "Regret", "Confession"],
+    "description": "The thief turns back, caught in the act, symbolizing accountability and the end of deceit or self-deception.",
     "type": "minor",
     "value": 7,
     "suit": "swords"
   },
   {
     "name": "Eight of Swords Reversed",
-    "symbol": "8⚔️⬇️",
-    "meanings": [
-      "Liberation",
-      "Release from restrictions",
-      "Overcoming obstacles",
-      "Gaining clarity",
-      "Freedom of choice"
-    ],
-    "description": "A bound and blindfolded woman is surrounded by swords, symbolizing release or escape when reversed.",
+    "symbol": "⚔️x8⬇️",
+    "meanings": ["Freedom", "Clarity", "Empowerment", "Release"],
+    "description": "The bindings fall away, the woman steps free from the circle of blades, symbolizing liberation and renewed confidence.",
     "type": "minor",
     "value": 8,
     "suit": "swords"
   },
   {
     "name": "Nine of Swords Reversed",
-    "symbol": "9⚔️⬇️",
-    "meanings": [
-      "Overcoming fear",
-      "Relief from anxiety",
-      "Renewed hope",
-      "End of despair",
-      "Mental recovery"
-    ],
-    "description": "A woman sits in lamentation with nine swords above; reversed suggests easing of sorrow.",
+    "symbol": "⚔️x9⬇️",
+    "meanings": ["Hope", "Relief", "Recovery", "Perspective"],
+    "description": "The figure lifts their head as dawn breaks, symbolizing awakening from fear and seeing anxiety lose its hold.",
     "type": "minor",
     "value": 9,
     "suit": "swords"
   },
   {
     "name": "Ten of Swords Reversed",
-    "symbol": "🔟⚔️⬇️",
-    "meanings": [
-      "Recovery",
-      "Relief",
-      "Avoidance of disaster",
-      "Improvement",
-      "Gains after loss"
-    ],
-    "description": "A figure lies prostrate, pierced by ten swords; reversed indicates mitigation or recovery.",
+    "symbol": "⚔️x10⬇️",
+    "meanings": ["Renewal", "Resilience", "Healing", "Rebirth"],
+    "description": "The figure rises from the ground, the dawn brightening, symbolizing release from pain and a new beginning after ruin.",
     "type": "minor",
     "value": 10,
     "suit": "swords"
   },
   {
     "name": "Page of Swords Reversed",
-    "symbol": "🚶‍♂️⚔️⬇️",
-    "meanings": [
-      "Gossip",
-      "Spying",
-      "Unpreparedness",
-      "Impulsiveness",
-      "Unforeseen difficulties"
-    ],
-    "description": "A lithe figure holds a sword upright while moving quickly; reversal suggests lack of preparation or negative surprises.",
+    "symbol": "🧒⚔️⬇️",
+    "meanings": ["Gossip", "Deception", "Recklessness", "Confusion"],
+    "description": "The youth wields the sword carelessly, wind scattering their focus — ideas misused or words that cut unwisely.",
     "type": "minor",
     "value": 11,
     "suit": "swords"
   },
   {
     "name": "Knight of Swords Reversed",
-    "symbol": "🗡️⬇️",
-    "meanings": [
-      "Recklessness",
-      "Imprudence",
-      "Poor judgment",
-      "Hasty decisions",
-      "Conflict arising from impulsivity"
-    ],
-    "description": "A knight rides swiftly with sword raised; reversed warns of reckless or destructive action.",
+    "symbol": "🏇⚔️⬇️",
+    "meanings": ["Impatience", "Aggression", "Haste", "Chaos"],
+    "description": "The horse rears, the knight’s charge becomes reckless, symbolizing rash action and unbridled force without clarity.",
     "type": "minor",
     "value": 12,
     "suit": "swords"
   },
   {
     "name": "Queen of Swords Reversed",
-    "symbol": "👸⚔️⬇️",
-    "meanings": [
-      "Malice",
-      "Deceit",
-      "Bitterness",
-      "Coldness",
-      "Overly critical"
-    ],
-    "description": "The Queen’s sword is raised; reversed indicates harshness, malice, or deceit.",
+    "symbol": "👑⚔️⬇️",
+    "meanings": ["Coldness", "Bitterness", "Isolation", "Criticism"],
+    "description": "The queen lowers her sword, her gaze hardened, symbolizing emotional distance or harsh judgment clouding reason.",
     "type": "minor",
     "value": 13,
     "suit": "swords"
@@ -406,14 +245,8 @@
   {
     "name": "King of Swords Reversed",
     "symbol": "🤴⚔️⬇️",
-    "meanings": [
-      "Abuse of power",
-      "Cruelty",
-      "Tyranny",
-      "Dishonesty",
-      "Unjust authority"
-    ],
-    "description": "The King holds his sword; reversed indicates misuse of power, cruelty, or unethical judgment.",
+    "meanings": ["Manipulation", "Tyranny", "Misuse of power", "Bias"],
+    "description": "The king’s sword tilts, his face stern and cold, symbolizing rigid thinking, unfair authority, or twisted intellect.",
     "type": "minor",
     "value": 14,
     "suit": "swords"

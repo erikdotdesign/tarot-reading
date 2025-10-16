@@ -1,427 +1,254 @@
 [
   {
     "name": "Ace of Wands",
-    "symbol": "🔥",
-    "meanings": [
-      "Creation",
-      "Invention",
-      "Enterprise",
-      "The power behind beginnings",
-      "New beginnings",
-      "Source or birth",
-      "Family",
-      "Origin",
-      "Virility and starting point of enterprises",
-      "Money",
-      "Fortune",
-      "Inheritance"
-    ],
-    "description": "A hand issuing from a cloud grasps a stout wand or club.",
+    "symbol": "🌋🔥",
     "type": "minor",
     "value": 1,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A hand emerges from a cloud holding a blossoming wand — the spark of creation and vitality taking form.",
+    "meanings": ["Creation", "Invention", "Enterprise", "Beginning", "Source", "Birth", "Family", "Origin"]
   },
   {
     "name": "Two of Wands",
     "symbol": "2️⃣🔥",
-    "meanings": [
-      "Choices and alternatives",
-      "Riches and fortune",
-      "Magnificence",
-      "Physical suffering or disease",
-      "Chagrin and sadness",
-      "Mortification",
-      "Contemplation of power and dominion"
-    ],
-    "description": "A tall man looks from a battlemented roof over sea and shore; he holds a globe in his right hand, while a staff in his left rests on the battlement; another is fixed in a ring. The Rose, Cross, and Lily are on the left side.",
     "type": "minor",
     "value": 2,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A figure stands between two wands, gazing out over the land — vision, dominion, and the anticipation of progress.",
+    "meanings": ["Riches", "Fortune", "Magnificence", "Dominion", "Ambition"]
   },
   {
     "name": "Three of Wands",
-    "symbol": "🔥3️⃣",
-    "meanings": [
-      "Established strength",
-      "Enterprise and effort",
-      "Trade and commerce",
-      "Discovery and progress",
-      "Merchandise bearing",
-      "Cooperation in business",
-      "Guidance and support"
-    ],
-    "description": "A calm, stately personage, with his back turned, looks from a cliff's edge at ships passing over the sea. Three staves are planted in the ground, and he leans slightly on one of them.",
+    "symbol": "3️⃣🔥",
     "type": "minor",
     "value": 3,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A merchant watches ships sail across the sea — expansion, foresight, and reward for enterprise.",
+    "meanings": ["Enterprise", "Effort", "Discovery", "Commerce", "Trade", "Negotiation"]
   },
   {
     "name": "Four of Wands",
-    "symbol": "🏰",
-    "meanings": [
-      "Country life",
-      "Haven of refuge",
-      "Domestic harvest-home",
-      "Repose",
-      "Concord and harmony",
-      "Prosperity and peace",
-      "Completion and perfection of work"
-    ],
-    "description": "From the four great staves planted in the foreground, a large garland is suspended; two female figures uplift nosegays. At their side is a bridge over a moat, leading to an old manorial house.",
+    "symbol": "4️⃣🔥",
     "type": "minor",
     "value": 4,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "Garlanded wands form a joyful gateway — festivity, homecoming, and stability built on success.",
+    "meanings": ["Country life", "Haven", "Repose", "Concord", "Harmony", "Prosperity", "Peace"]
   },
   {
     "name": "Five of Wands",
-    "symbol": "5⚔️",
-    "meanings": [
-      "Imitation or sham fight",
-      "Strenuous competition",
-      "Struggle for riches or fortune",
-      "The battle of life",
-      "Gain and opulence"
-    ],
-    "description": "A group of youths brandish staves, as if in sport or strife. It represents mimic warfare and competition.",
+    "symbol": "5️⃣🔥",
     "type": "minor",
     "value": 5,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "Five youths clash with wands in mock battle — competition, tension, and the struggle of equals.",
+    "meanings": ["Imitation", "Strife", "Conflict", "Rivalry", "Playful combat"]
   },
   {
     "name": "Six of Wands",
     "symbol": "6️⃣🔥",
-    "meanings": [
-      "Victory and triumph",
-      "Good news",
-      "Expectation realized",
-      "Crowning of hope",
-      "Public recognition"
-    ],
-    "description": "A laurelled horseman bears a staff adorned with a laurel crown; footmen with staves are at his side.",
     "type": "minor",
     "value": 6,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A laureled horseman receives acclaim — triumph, recognition, and victory after struggle.",
+    "meanings": ["Triumph", "Victory", "Good news", "Advancement", "Expectations"]
   },
   {
     "name": "Seven of Wands",
     "symbol": "7️⃣🔥",
-    "meanings": [
-      "Valor and courage",
-      "Defense from opposition",
-      "Intellectual discussion",
-      "Negotiations and competition",
-      "Success from advantageous position"
-    ],
-    "description": "A young man on a craggy eminence brandishes a staff; six other staves are raised towards him from below.",
     "type": "minor",
     "value": 7,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A lone figure defends a hilltop with a wand — perseverance, courage, and defiance against odds.",
+    "meanings": ["Defense", "Valor", "Advantage", "Opposition", "Success"]
   },
   {
     "name": "Eight of Wands",
     "symbol": "8️⃣🔥",
-    "meanings": [
-      "Activity and movement",
-      "Swift progress",
-      "Great haste",
-      "Hope and expectation",
-      "Arrows of love",
-      "Rapid achievement"
-    ],
-    "description": "A flight of wands passes over an open country, drawing to the end of their course. Action and progress are imminent.",
     "type": "minor",
     "value": 8,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "Eight wands fly swiftly through the air — movement, rapid progress, and the approach of change.",
+    "meanings": ["Activity", "Swiftness", "Flight", "Movement", "Hope", "Progress"]
   },
   {
     "name": "Nine of Wands",
     "symbol": "9️⃣🔥",
-    "meanings": [
-      "Strength in opposition",
-      "Courage under attack",
-      "Formidable resilience",
-      "Delay or suspension",
-      "Persistence in adversity"
-    ],
-    "description": "The figure leans upon his staff with an expectant look, as if awaiting an enemy. Behind him, eight other staves stand erect in orderly disposition.",
     "type": "minor",
     "value": 9,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A weary warrior leans on his wand, wounded but vigilant — resilience, discipline, and faith in adversity.",
+    "meanings": ["Strength in opposition", "Delay", "Suspicion", "Anticipation", "Caution"]
   },
   {
     "name": "Ten of Wands",
     "symbol": "🔟🔥",
-    "meanings": [
-      "Burden and oppression",
-      "Responsibility and achievement",
-      "Fortune and gain",
-      "False appearances or perfidy",
-      "Challenges accompanying success"
-    ],
-    "description": "A man is oppressed by the weight of the ten staves he is carrying.",
     "type": "minor",
     "value": 10,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A man bears ten wands heavily toward a town — the weight of duty, ambition, and overburdened success.",
+    "meanings": ["Oppression", "Burden", "Responsibility", "Labor", "Strain"]
   },
   {
     "name": "Page of Wands",
     "symbol": "📜🔥",
-    "meanings": [
-      "Young, dark-skinned man",
-      "Faithful and observant",
-      "A messenger or envoy",
-      "Bringer of news",
-      "Family intelligence or communication"
-    ],
-    "description": "A young man stands in the act of proclamation. He is unknown but faithful, and his tidings are unusual.",
     "type": "minor",
     "value": 11,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A youthful messenger holds a staff upright, eager to announce new ventures or passions.",
+    "meanings": ["Faithfulness", "Enthusiasm", "A messenger", "Adventure", "Intelligence"]
   },
   {
     "name": "Knight of Wands",
-    "symbol": "🏇🔥",
-    "meanings": [
-      "Departure and journey",
-      "Absence",
-      "Flight or emigration",
-      "Friendly change of residence",
-      "Adventurous spirit"
-    ],
-    "description": "He is shown on a journey, armed with a short wand. Though armored, he is not on a warlike errand. The motion of his horse suggests precipitate action or energetic mood.",
+    "symbol": "🐎🔥",
     "type": "minor",
     "value": 12,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A fiery knight charges forward on horseback — energy, impulsiveness, and the pursuit of challenge.",
+    "meanings": ["Departure", "Journey", "Flight", "Change of residence", "Adventure"]
   },
   {
     "name": "Queen of Wands",
     "symbol": "👸🔥",
-    "meanings": [
-      "Dark-haired woman",
-      "Friendly and loving",
-      "Chaste and honorable",
-      "Supportive of men or women depending on context",
-      "Interest in the querent",
-      "Love of money",
-      "Success in business"
-    ],
-    "description": "The Wands are always in leaf, symbolizing life and animation. The Queen's personality is magnetic and corresponds to the King emotionally.",
     "type": "minor",
     "value": 13,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A regal woman sits with her wand and sunflower — warmth, charisma, and strength in independence.",
+    "meanings": ["Adaptability", "Practicality", "Kindness", "Attractiveness", "Sincerity"]
   },
   {
     "name": "King of Wands",
     "symbol": "🤴🔥",
-    "meanings": [
-      "Dark-skinned man",
-      "Friendly and honest",
-      "Conscientious",
-      "Married or authoritative figure",
-      "Represents integrity",
-      "News of unexpected heritage"
-    ],
-    "description": "The King is dark, ardent, lithe, animated, impassioned, and noble. He uplifts a flowering wand and wears a cap of maintenance beneath his crown. The lion symbol is emblazoned on his throne.",
     "type": "minor",
     "value": 14,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "A king upon his throne holds a flowering wand — leadership, vision, and authority tempered by creativity.",
+    "meanings": ["Honour", "Leadership", "Power", "Integrity", "Decisiveness"]
   },
   {
     "name": "Ace of Wands Reversed",
-    "symbol": "🔥⬇️",
-    "meanings": [
-      "Fall",
-      "Decadence",
-      "Ruin",
-      "Perdition",
-      "Clouded joy"
-    ],
-    "description": "A hand issuing from a cloud grasps a stout wand or club.",
+    "symbol": "🌋⬇️",
     "type": "minor",
     "value": 1,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The hand drops the wand, its leaves withering — blocked inspiration or delayed beginnings.",
+    "meanings": ["Fall", "Decadence", "Ruin", "Clouded joy"]
   },
   {
     "name": "Two of Wands Reversed",
-    "symbol": "2️⃣🔥⬇️",
-    "meanings": [
-      "Surprise and wonder",
-      "Enchantment",
-      "Emotional turmoil",
-      "Trouble and fear"
-    ],
-    "description": "A tall man looks from a battlemented roof over sea and shore; he holds a globe in his right hand, while a staff in his left rests on the battlement.",
+    "symbol": "2⬇️🔥",
     "type": "minor",
     "value": 2,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The figure looks back uncertainly, ambition faltering — fear of change or loss of initiative.",
+    "meanings": ["Surprise", "Trouble", "Fear", "Sadness"]
   },
   {
     "name": "Three of Wands Reversed",
-    "symbol": "3️⃣🔥⬇️",
-    "meanings": [
-      "End of troubles",
-      "Suspension or cessation of adversity",
-      "Toil and disappointment"
-    ],
-    "description": "A calm personage looks from a cliff's edge at ships passing over the sea, leaning slightly on one of three staves.",
+    "symbol": "3⬇️🔥",
     "type": "minor",
     "value": 3,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "Ships drift aimlessly on calm waters — delay, miscommunication, or plans falling short.",
+    "meanings": ["End of adversity", "Disappointment", "Treachery"]
   },
   {
     "name": "Four of Wands Reversed",
-    "symbol": "4️⃣🔥⬇️",
-    "meanings": [
-      "Prosperity",
-      "Increase and felicity",
-      "Beauty and embellishment"
-    ],
-    "description": "From the four great staves, a garland is suspended; two female figures uplift nosegays near a bridge leading to an old manorial house.",
+    "symbol": "4⬇️🔥",
     "type": "minor",
     "value": 4,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The festive garlands droop — instability in the home or fleeting happiness.",
+    "meanings": ["Uncertain peace", "Transitory happiness", "Incomplete success"]
   },
   {
     "name": "Five of Wands Reversed",
-    "symbol": "5️⃣🔥⬇️",
-    "meanings": [
-      "Litigation and disputes",
-      "Trickery",
-      "Contradiction",
-      "Resolution of conflicts"
-    ],
-    "description": "A group of youths brandish staves, representing mimic warfare or playful competition.",
+    "symbol": "5⬇️🔥",
     "type": "minor",
     "value": 5,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The mock battle turns bitter — needless quarrels and petty conflict.",
+    "meanings": ["Litigation", "Disputes", "Struggle for gain"]
   },
   {
     "name": "Six of Wands Reversed",
-    "symbol": "6️⃣🔥⬇️",
-    "meanings": [
-      "Apprehension",
-      "Fear",
-      "Treachery or disloyalty",
-      "Indefinite delay",
-      "Defeated expectations"
-    ],
-    "description": "A laurelled horseman bears a staff adorned with a laurel crown; footmen with staves are at his side.",
+    "symbol": "6⬇️🔥",
     "type": "minor",
     "value": 6,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The rider falters, losing acclaim — delayed recognition or pride before a fall.",
+    "meanings": ["Apprehension", "Disloyalty", "Delayed reward"]
   },
   {
     "name": "Seven of Wands Reversed",
-    "symbol": "7️⃣🔥⬇️",
-    "meanings": [
-      "Perplexity",
-      "Embarrassment",
-      "Anxiety",
-      "Caution against indecision"
-    ],
-    "description": "A young man on a craggy eminence brandishes a staff; six other staves are raised towards him from below.",
+    "symbol": "7⬇️🔥",
     "type": "minor",
     "value": 7,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The defender drops his staff — giving in to pressure or hesitation in battle.",
+    "meanings": ["Embarrassment", "Anxiety", "Indecision", "Conflict avoidance"]
   },
   {
     "name": "Eight of Wands Reversed",
-    "symbol": "8️⃣🔥⬇️",
-    "meanings": [
-      "Jealousy",
-      "Internal disputes",
-      "Guilt or conscience issues",
-      "Quarrels and domestic disputes"
-    ],
-    "description": "A flight of wands passes over an open country, drawing to the end of their course. Action may be delayed or blocked.",
+    "symbol": "8⬇️🔥",
     "type": "minor",
     "value": 8,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The wands lose flight and fall to the ground — stagnation or missed messages.",
+    "meanings": ["Jealousy", "Internal dispute", "Delay", "Arrows of jealousy"]
   },
   {
     "name": "Nine of Wands Reversed",
-    "symbol": "9️⃣🔥⬇️",
-    "meanings": [
-      "Obstacles",
-      "Adversity",
-      "Calamity",
-      "Weakness in defense"
-    ],
-    "description": "The figure leans on his staff, appearing vulnerable. Behind him, eight other staves stand erect, forming a palisade.",
+    "symbol": "9⬇️🔥",
     "type": "minor",
     "value": 9,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The wounded man lowers his guard — exhaustion, distrust, or loss of faith.",
+    "meanings": ["Obstacles", "Adversity", "Ill health", "Weakness"]
   },
   {
     "name": "Ten of Wands Reversed",
-    "symbol": "🔟🔥⬇️",
-    "meanings": [
-      "Contrarieties",
-      "Difficulties",
-      "Intrigues",
-      "Relief from burden",
-      "Resolved challenges"
-    ],
-    "description": "A man is oppressed by the weight of the ten staves, though relief or resolution is possible.",
+    "symbol": "🔟⬇️🔥",
     "type": "minor",
     "value": 10,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The burden slips from the man’s arms — collapse under pressure or release through surrender.",
+    "meanings": ["Contradictions", "Difficulties", "Deception", "Loss"]
   },
   {
     "name": "Page of Wands Reversed",
-    "symbol": "📜🔥⬇️",
-    "meanings": [
-      "Anecdotes",
-      "Announcements",
-      "Evil news",
-      "Indecision",
-      "Instability"
-    ],
-    "description": "A young man stands in the act of proclamation. He is unknown but faithful, and his tidings are uncertain or confusing.",
+    "symbol": "📜⬇️🔥",
     "type": "minor",
     "value": 11,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The messenger falters, his message lost — instability, indecision, or broken communication.",
+    "meanings": ["Anecdotes", "Announcements", "Delays", "Unwelcome news"]
   },
   {
     "name": "Knight of Wands Reversed",
-    "symbol": "🏇🔥⬇️",
-    "meanings": [
-      "Rupture",
-      "Division",
-      "Interruption",
-      "Discord",
-      "Impulsiveness with negative consequences"
-    ],
-    "description": "He is shown on a journey, armed with a short wand. Motion suggests impulsiveness or recklessness, potentially causing disruption.",
+    "symbol": "🐎⬇️🔥",
     "type": "minor",
     "value": 12,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The fiery knight’s passion burns too hot — impulsiveness, rash action, or disruption.",
+    "meanings": ["Discord", "Interruption", "Unexpected change"]
   },
   {
     "name": "Queen of Wands Reversed",
-    "symbol": "👸🔥⬇️",
-    "meanings": [
-      "Good and serviceable",
-      "Obliging and economical",
-      "Opposition, jealousy, or deceit",
-      "Infidelity in some contexts"
-    ],
-    "description": "The Wands are always in leaf. The Queen’s reversed traits may show conflict, jealousy, or misaligned intentions.",
+    "symbol": "👸⬇️🔥",
     "type": "minor",
     "value": 13,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The sunflower wilts in her grasp — jealousy, deceit, or misuse of influence.",
+    "meanings": ["Jealousy", "Deceit", "Obstacles", "Infidelity"]
   },
   {
     "name": "King of Wands Reversed",
-    "symbol": "🤴🔥⬇️",
-    "meanings": [
-      "Good but severe",
-      "Austere yet tolerant",
-      "Authority misused or misdirected"
-    ],
-    "description": "The King uplifts a flowering wand, but reversed, his authority may be harsh or misguided. The lion symbol remains on his throne.",
+    "symbol": "🤴⬇️🔥",
     "type": "minor",
     "value": 14,
-    "suit": "wands"
+    "suit": "wands",
+    "description": "The king’s wand droops, his vision clouded — arrogance, intolerance, or reckless power.",
+    "meanings": ["Severity", "Excess", "Dogmatism", "Quarrel", "Impulsiveness"]
   }
 ]
