@@ -11,7 +11,7 @@ const { AutoLayout } = widget;
 
 const INSTRUCTIONS = [
   "Input a question",
-  "Select the reading detail",
+  "Select a reading detail",
   "Draw the cards",
   "Read each card in order",
   "Consider the outcome"
