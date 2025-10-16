@@ -93,7 +93,7 @@ const textStyle = {
     fill: baseStyle.color.text.base,
     fontSize: baseStyle.fontSize.medium,
     lineHeight: baseStyle.lineHeight.medium,
-    fontWeight: baseStyle.fontWeight.bold
+    fontWeight: baseStyle.fontWeight.semiBold
   },
   body: {
     fontFamily: baseStyle.fontFamily.body,

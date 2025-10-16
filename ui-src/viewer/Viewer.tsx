@@ -14,7 +14,7 @@ const Viewer = ({
     <Canvas
       ref={canvasRef}
       shadows>
-      <color attach="background" args={['#FA7373']} />
+      <color attach="background" args={['skyblue']} />
       <Stage 
         intensity={0}
         shadows="contact"

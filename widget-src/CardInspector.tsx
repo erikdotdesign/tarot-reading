@@ -13,29 +13,29 @@ const { widget } = figma;
 const { AutoLayout } = widget;
 
 const SPEAD_INFO = {
-  3: {
-    1: ["The Past", "The influences, events, or patterns from the past that shape the current situation."],
-    2: ["The Present", "Reflects the current circumstances, emotional state, or challenges."],
-    3: ["The Future", "Indicates possible outcomes, lessons, or directions the situation may move toward."]
+  "3": {
+    "1": ["The Past", "The influences, events, or patterns from the past that shape the current situation."],
+    "2": ["The Present", "Reflects the current circumstances, emotional state, or challenges."],
+    "3": ["The Future", "Indicates possible outcomes, lessons, or directions the situation may move toward."]
   },
-  5: {
-    1: ["The Present", "The current situation or the querent's core energy."],
-    2: ["The Past", "Influences from the past that are still affecting the present."],
-    3: ["The Future", "The most likely outcome if things continue on the current path."],
-    4: ["The Root Cause", "The reason behind the current situation or a hidden aspect of the problem."],
-    5: ["The Potential", "A deeper insight into the situation, offering advice, potential, or the overriding area for focus."]
+  "5": {
+    "1": ["The Present", "Represents the current situation or the querent’s core energy."],
+    "2": ["The Past", "Influences or experiences from the past that continue to affect the present."],
+    "3": ["The Future", "The most likely outcome if things continue along the current path."],
+    "4": ["The Root Cause", "The underlying reason behind the situation or a hidden factor influencing it."],
+    "5": ["The Potential", "Offers deeper insight, guidance, or the key area for growth and focus."]
   },
-  10: {
-    1: ["The Present", "The heart of the issue or the current focus."],
-    2: ["The Challenge", "What's affecting the present situation, both positively and negatively."],
-    3: ["The Foundation", "The basis of the current situation and the more immediate past."],
-    4: ["The Unconscious", "Something that is affecting the situation on an unconscious level."],
-    5: ["The Past", "The distant past and its influence on the present."],
-    6: ["The Future", "The most likely near-term future based on the current trajectory."],
-    7: ["Inner Influences", "The querent's internal state, thoughts, and feelings about the situation."],
-    8: ["External Influences", "The external factors or influences outside of the querent's control that are still impacting the situation."],
-    9: ["Hopes and Fears", "The querent's greatest hopes and fears regarding the outcome."],
-    10:["The Outcome", "The likely outcome if things continue on their current path."]
+  "10": {
+    "1": ["The Present", "The heart of the matter or the current focus."],
+    "2": ["The Challenge", "The main obstacle or influence—positive or negative—affecting the situation."],
+    "3": ["The Foundation", "The underlying basis of the current situation and the recent past."],
+    "4": ["The Unconscious", "Forces or feelings influencing the situation on an unconscious level."],
+    "5": ["The Past", "Events from the distant past that continue to shape the present."],
+    "6": ["The Future", "The most likely near-term outcome based on current circumstances."],
+    "7": ["Inner Influences", "The querent’s internal thoughts, emotions, and attitudes about the situation."],
+    "8": ["External Influences", "Outside factors or people that are impacting the situation."],
+    "9": ["Hopes and Fears", "The querent’s greatest hopes and anxieties surrounding the outcome."],
+    "10": ["The Outcome", "The probable result if the current path continues unchanged."]
   }
 };
 
@@ -114,7 +114,9 @@ const CardInspector = ({
           </TextHeader>
           <TextSubHeader
             horizontalAlignText="center"
-            width="fill-parent">
+            width="fill-parent"
+            fontSize={28}
+            lineHeight={42}>
             { card.meanings.join(", ") }
           </TextSubHeader>
         </AutoLayout>
@@ -122,20 +124,16 @@ const CardInspector = ({
           direction="vertical"
           width="fill-parent"
           horizontalAlignItems="center"
-          fill={style.color.red}
           spacing={style.spacing.medium}
-          padding={72}
-          stroke={style.color.black}
-          strokeWidth={style.strokeWidth.large}
-          strokeAlign="inside"
-          onClick={async () => {
-            await new Promise((resolve) => {
-              figma.showUI(__html__, {width: 564, height: 564, themeColors: true});
-            })
-          }}>
+          padding={style.padding.medium}>
           <CardImage
             card={card}
-            display />
+            display
+            onClick={async () => {
+              await new Promise((resolve) => {
+                figma.showUI(__html__, {width: 564, height: 564, themeColors: true});
+              })
+            }} />
         </AutoLayout> 
         <AutoLayout
           width="fill-parent"
