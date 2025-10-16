@@ -9,12 +9,17 @@ const { AutoLayout, Text } = widget;
 export const CARD_WIDTH = 144;
 export const CARD_HEIGHT = 224;
 
+export const CARD_WIDTH_LARGE = 144 * 2;
+export const CARD_HEIGHT_LARGE = 224 * 2;
+
 const Card = ({
+  large = false,
   card,
   state,
   setState,
   ...props
 }: {
+  large: boolean;
   card: TarotCard;
   state: State;
   setState: (state: State) => void;
@@ -30,31 +35,34 @@ const Card = ({
   return (
     <AutoLayout
       name={card.name}
-      width={CARD_WIDTH}
-      height={CARD_HEIGHT}
+      width={large ? CARD_WIDTH_LARGE : CARD_WIDTH}
+      height={large ? CARD_HEIGHT_LARGE : CARD_HEIGHT}
       verticalAlignItems="center"
       horizontalAlignItems="center"
       fill={isSelected ? style.color.red : `#00000000`}
-      strokeWidth={style.strokeWidth.small}
+      strokeWidth={large ? style.strokeWidth.medium : style.strokeWidth.small}
       stroke={isSelected ? style.color.black : undefined}
       strokeAlign="inside"
       onClick={handleClick}
       {...props}>
       <CardImage
-        card={card} />
+        card={card}
+        large={large} />
       <AutoLayout
         positioning="absolute"
         x={0}
         y={0}
-        width={24}
-        height={24}
+        width={large ? 48 : 24}
+        height={large ? 48 : 24}
         verticalAlignItems="center"
         horizontalAlignItems="center"
         stroke={style.color.black}
-        strokeWidth={style.strokeWidth.small}
+        strokeWidth={large ? style.strokeWidth.medium : style.strokeWidth.small}
         fill={isSelected ? style.color.red : style.color.black}>
         <Text 
-          {...style.textStyle.body} 
+          fontFamily={style.fontFamily.body}
+          fontSize={large ? style.textStyle.header.fontSize : style.textStyle.body.fontSize}
+          lineHeight={large ? style.textStyle.header.lineHeight : style.textStyle.body.lineHeight}
           fontWeight={style.fontWeight.bold}
           fill={isSelected ? style.color.black : style.color.white}>
           {number}

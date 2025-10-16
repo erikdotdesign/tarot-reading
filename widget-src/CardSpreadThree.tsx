@@ -17,6 +17,7 @@ const CardSpreadThree = ({
         cards.map((i) => (
           <Card
             key={`${state.timestamp}-${i}`}
+            large
             card={state.cards[i]}
             state={state}
             setState={setState} />

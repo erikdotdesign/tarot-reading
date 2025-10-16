@@ -6,19 +6,19 @@ const { widget } = figma;
 const { Image } = widget;
 
 const CardImage = ({
-  display = false,
+  large = false,
   card,
   ...props
 }: {
-  display?: boolean;
+  large?: boolean;
   card: TarotCard | "back";
 } & WidgetJSX.WidgetJSXImageProps) => {
   return (
     <Image
-      width={display ? 240 : 120}
-      height={display ? 400: 200}
+      width={large ? 240 : 120}
+      height={large ? 400: 200}
       src={getCardImage(card)}
-      strokeWidth={display ? style.strokeWidth.medium : style.strokeWidth.small}
+      strokeWidth={large ? style.strokeWidth.medium : style.strokeWidth.small}
       stroke={style.color.black}
       strokeAlign="outside"
       rotation={card !== "back" ? card.reversed ? 180 : 0 : 0}

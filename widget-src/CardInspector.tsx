@@ -128,7 +128,7 @@ const CardInspector = ({
           padding={style.padding.medium}>
           <CardImage
             card={card}
-            display
+            large
             onClick={async () => {
               await new Promise((resolve) => {
                 figma.showUI(__html__, {width: 564, height: 564, themeColors: true});

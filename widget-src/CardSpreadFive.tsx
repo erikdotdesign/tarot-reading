@@ -3,8 +3,6 @@ import { State } from "./types";
 
 import Card, { CARD_HEIGHT } from "./Card";
 
-import CardSpreadThree from "./CardSpreadThree";
-
 const { widget } = figma;
 const { AutoLayout } = widget;
 
@@ -45,10 +43,15 @@ const CardSpreadFive = ({
         verticalAlignItems="center"
         horizontalAlignItems="center"
         spacing={style.spacing.xLarge}>
-        <CardSpreadThree
-          cards={middle}
-          state={state}
-          setState={setState} />
+        {
+          middle.map((i) => (
+            <Card
+              key={`${state.timestamp}-${i}`}
+              card={state.cards[i]}
+              state={state}
+              setState={setState} />
+          ))
+        }
         {
           center
           ? <Card
