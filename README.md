@@ -1,72 +1,59 @@
-# Air Jordan 1 — Figma Plugin
+# Tarot Reading Figma Widget
 
-A customizable **Air Jordan 1** 3D model plugin for Figma.  
-Easily design, preview, and export high-quality renders of the legendary sneaker — perfect for moodboards, presentations, or sneakerhead mockups.
+**tarot-reading** is a Figma widget that brings the mystical art of tarot directly into your Figma workspace. Using the classic **Rider–Waite Tarot deck**, it allows you to perform virtual tarot readings with ease and clarity.
 
-![cover](air-jordan-1-cover.png) 
+![cover](tarot-reading-cover.png) 
 
 ## Features
 
-- **Full colorway customization**  
-  - Tweak every panel of the AJ1  
-  - Includes **original colorway presets** for quick inspiration  
+- **Question Input** – Enter a question to focus your reading.  
+- **Complete Deck** – Includes all **78 tarot cards** with:  
+  - Meanings  
+  - Descriptions  
+  - Symbolism  
+- **Three Reading Types/Spreads**:  
+  1. **3-Card Spread** – Past, Present, Future.  
+  2. **5-Card Spread** – A cross layout revealing deeper insights.  
+  3. **10-Card Celtic Cross** – The classic detailed spread for a comprehensive reading.  
+- **Card Insights** – Each card drawn in a spread comes with a full description to help interpret your reading.  
 
-- **Background control**  
-  - Choose solid colors to match your design  
+## How to Use
 
-- **Dynamic shoe positioning**  
-  - **Flat** — clean, side-view placement  
-  - **Hover** — floating angle with optional animated wobble  
+1. Install the **tarot-reading** widget in Figma.  
+2. Click the widget to open it.  
+3. Type a question you’d like guidance on.  
+4. Select a reading type (3-card, 5-card, or 10-card).  
+5. Draw your cards.  
+6. View each card’s meanings, descriptions, and symbology in the spread.
 
-- **Camera & motion controls**  
-  - Adjustable POV (camera perspective)  
-  - Auto-rotate toggle with speed control  
+## Installation
 
-- **High-resolution export**  
-  - **2400 × 2400 PNG** (still)  
-  - **2400 × 2400 WEBM** (animated)
+1. Open Figma and navigate to the **Widgets** panel.  
+2. Search for **tarot-reading**.  
+3. Click **Install**.
 
-## Usage
+## Contributing
 
-1. Open the **Plugins → air-jordan-1** panel in Figma.  
-2. Select a colorway preset **or** build your own.  
-3. Adjust:
-   - Shoe position (Flat / Hover)  
-   - Camera POV and auto-rotate speed  
-   - Background color  
-4. Export as:
-   - **PNG** (still render)  
-   - **WEBM** (animated render)  
-
-## Inspiration
-
-The Air Jordan 1 is more than just a sneaker — it’s design history.  
-This plugin is built for designers, sneaker fans, and storytellers who want a **quick, customizable way** to bring the AJ1 into their work.
-
-## Getting Started
-
-1. Install **air-jordan-1** from the Figma Community  
-2. Open via `Plugins → air-jordan-1`  
-3. Adjust controls and export your render
+Contributions are welcome! Feel free to submit issues, bug reports, or feature requests. Pull requests should follow consistent formatting and maintain readability.  
 
 ## Development  
 
 Clone this repo and run locally:  
 
 ```bash
-git clone https://github.com/erikdotdesign/air-jordan-1.git
-cd air-jordan-1
+git clone https://github.com/erikdotdesign/tarot-reading.git
+cd tarot-reading
 npm install
 npm run dev
-Load the manifest.json into Figma → Plugins → Development → Import plugin from manifest…
+Load the manifest.json into Figma → Widgets → Development → Import widget from manifest…
 ```
 
 This plugin is built with:  
 - [Three.js](https://threejs.org/) for 3D rendering  
 - [React-three-fiber](https://r3f.docs.pmnd.rs/getting-started/introduction) for 3D rendering
-- [Figma Plugin API](https://www.figma.com/plugin-docs/)  
+- [Figma Widgets API](https://developers.figma.com/docs/widgets/)  
 - React + TypeScript 
 
-## License 
+## License
 
-MIT
+This project is licensed under the MIT License.
